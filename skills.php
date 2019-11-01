@@ -1,5 +1,5 @@
 <?php include "include/head.html" ?>
 
-<p class ="incoming">Partie compétences en construction !</p>
+<p class =" bande-annonce incoming">Partie compétences en construction !</p>
 
 <?php include "include/footer.html" ?>
