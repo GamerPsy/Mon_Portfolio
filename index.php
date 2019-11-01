@@ -15,6 +15,12 @@
                             locomotion mobile sur Orléans, Tours ou Paris
                         </li>
                     </ul>
+
+                    <div class = "card-footer mt-5">
+                            <a class="btn btn-dark mx-auto d-block w-50" type="button" target="_blank" href="/documents/Remy_DUCRY_Developpeur_Web_Junior.pdf">
+                                Télécharger le CV !
+                            </a>
+                    </div>
                 </div>
             </div>
             <!--------------------------Photo Rémy ----------------------------------------------------------------------------->
@@ -42,8 +48,7 @@
                     SIGBD pour mutualiser plus d'une vingtaine de base de données. <br/>
                     Je suis junior dans le métier de développeur, en revanche j'ai un parcours qui m'a permi de
                     développer et affirmer des compétences appréciées et transposables à la programmation dont une
-                    solide
-                    capacité de travailler en équipe.
+                    solide capacité de travailler en équipe.
                     <br/>
                     J'aime comprendre "comment ça fonctionne", aussi j'apprécie énormément le back-end et pas mal de
                     domaines sont pour moi des contrèes inexplorées à explorer ! (IA, Big Data, Cyber Sécurité,
@@ -52,7 +57,7 @@
                     Je suis actuellement à la recherche d'un poste de développeur web, qu'importe le langage et la
                     technologie du moment qu'on me permet de monter en compétences.
                     <div>
-                        <button class="btn btn-primary mx-auto d-block" type="button" data-toggle="collapse"
+                        <button class="btn btn-dark mx-auto d-block" type="button" data-toggle="collapse"
                                 data-target="#collapseExample"
                                 aria-expanded="false" aria-controls="collapseExample">
                             Version plus détaillée !
