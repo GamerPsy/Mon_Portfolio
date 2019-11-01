@@ -5,21 +5,25 @@
         <div class="row">
             <!-------------------------Infos Rémy ---------------------------------------------------------------------------->
             <div class="col-4 offset-2">
-                <div class="card w-100 h-100 pt-5">
-                    <ul>
-                        <li>Nom : DUCRY Rémy</li>
-                        <li>Age : 41 ans</li>
-                        <li>E-mail : ducry.remy@gmail.com</li>
-                        <li>Localisation : Orléans</li>
-                        <li>Mobilité : fervant utilisateur des transports en commun je suis par ce moyen de
-                            locomotion mobile sur Orléans, Tours ou Paris
-                        </li>
-                    </ul>
-
-                    <div class = "card-footer mt-5">
-                            <a class="btn btn-dark mx-auto d-block w-50" type="button" target="_blank" href="/documents/Remy_DUCRY_Developpeur_Web_Junior.pdf">
-                                Télécharger le CV !
-                            </a>
+                <div class="card w-100 h-100">
+                    <h4 class="font-weight-bold mx-auto">Fiche du développeur</h4>
+                    <div class="card-body">
+                        <ul>
+                            <li><span class="font-weight-bold">Nom :</span> DUCRY Rémy</li>
+                            <li><span class="font-weight-bold">Age :</span> 41 ans</li>
+                            <li><span class="font-weight-bold">Langage :</span> PHP</li>
+                            <li><span class="font-weight-bold">Localisation :</span> Orléans</li>
+                            <li><span class="font-weight-bold">Mobilité :</span> transports en commun.</li>
+                            <li><span class="font-weight-bold">En recherche d'emploi:</span> OUI</li>
+                            <li><span class="font-weight-bold">Contacter :</span> <a href="contact.php"> >>>Par ici !<<< </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="card-footer">
+                        <a class="btn btn-dark mx-auto d-block w-50" type="button" target="_blank"
+                           href="/documents/Remy_DUCRY_Developpeur_Web_Junior.pdf">
+                            Télécharger le CV !
+                        </a>
                     </div>
                 </div>
             </div>
