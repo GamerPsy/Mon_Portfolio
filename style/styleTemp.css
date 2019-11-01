@@ -3,15 +3,26 @@ body
     background-color: black;
 }
 
+nav
+{
+    background-color: black;
+}
+
 main
 {
     padding-top: 100px;
     padding-bottom: 100px;
 }
 
-navbar
+ul
 {
-    background-color: black;
+    list-style: none;
+    padding-left: 15px;
+}
+
+.card
+{
+    background-color: #FDEBD0;
 }
 
 p
