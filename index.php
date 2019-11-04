@@ -3,7 +3,7 @@
 <main class="bg-dark">
     <div class="container mt-auto">
         <div class="row">
-            <!-------------------------Infos Rémy ---------------------------------------------------------------------------->
+            <!-------------------------Infos Rémy --------------------------------------------------------------------->
             <div class="col-4 offset-2">
                 <div class="card w-100 h-100">
                     <h4 class="font-weight-bold mx-auto">Fiche du développeur</h4>
@@ -15,7 +15,7 @@
                             <li><span class="font-weight-bold">Localisation :</span> Orléans</li>
                             <li><span class="font-weight-bold">Mobilité :</span> transports en commun.</li>
                             <li><span class="font-weight-bold">En recherche d'emploi:</span> OUI</li>
-                            <li><span class="font-weight-bold">Contacter :</span> <a href="contact.php"> >>>Par ici
+                            <li><span class="font-weight-bold">Le contacter :</span> <a href="contact.php"> >>>Par ici
                                     !<<< </a>
                             </li>
                         </ul>
@@ -28,7 +28,7 @@
                     </div>
                 </div>
             </div>
-            <!--------------------------Photo Rémy ----------------------------------------------------------------------------->
+            <!--------------------------Photo Rémy -------------------------------------------------------------------->
             <div class="col-4">
                 <div class="thumbnail">
                     <img class="effect rounded mx-auto d-block img-fluid img-thumbnail w-100 h-100"
@@ -38,7 +38,7 @@
             </div>
         </div>
         <div class="row pt-3">
-            <!--------------------------Présentation succinte -------------------------------------------------------------------->
+            <!--------------------------Présentation succinte --------------------------------------------------------->
             <div class="card col-12 justify-content-center">
                 <div class="card-body mx-auto">
                     Je suis actuellement à la recherche d'un poste de développeur web junior, <span
@@ -91,13 +91,13 @@
                             <br/>
                             <br/>
                             <h5>Mes atouts :</h5>
-                            Je suis junior dans le métier de développeur, en revanche j'ai un parcours qui m'a permi de
+                            Je suis junior dans le métier de développeur, en revanche j'ai un parcours qui m'a permis de
                             développer et affirmer des compétences appréciées et transposables à la programmation dont
-                            une solide capacité de travailler en équipe.
+                            une solide capacité à travailler en équipe.
                             <br/>
                             J'aime comprendre "comment ça fonctionne", aussi j'apprécie énormément le back-end et pas
-                            mal de domaines sont pour moi des contrèes inexplorées à explorer ! (IA, Big Data, Cyber Sécurité,
-                            objets connectés).
+                            mal de domaines sont pour moi des contrèes inexplorées à explorer ! (IA, Big Data,
+                            Cyber Sécurité, objets connectés).
                             <br/>
                             Petit plus, je suis de nature très sociable et très très souvent de bonne humeur !
                         </div>
