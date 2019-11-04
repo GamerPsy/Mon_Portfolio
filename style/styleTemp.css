@@ -14,6 +14,11 @@ main
     padding-bottom: 40px;
 }
 
+.main-85
+{
+    height: 85vh;
+}
+
 ul
 {
     list-style: none;
@@ -34,7 +39,6 @@ ul
     align-items: center;
     height: 80vh;
     background: #000;
-
 }
 
 .incoming
@@ -52,7 +56,6 @@ ul
     animation: animate 3s linear infinite;
     -webkit-background-clip: text;
     -webkit-text-fill-color: rgba(255,255,255,0);
-
 }
 
 @keyframes animate
