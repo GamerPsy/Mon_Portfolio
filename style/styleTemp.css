@@ -25,6 +25,10 @@ ul
     padding-left: 15px;
 }
 
+#msg
+{
+    height: 150px;
+}
 .card
 {
     background-color: #FDEBD0;
