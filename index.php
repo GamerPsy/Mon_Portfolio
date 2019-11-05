@@ -4,7 +4,7 @@
     <div class="container mt-auto">
         <div class="row">
             <!-------------------------Infos Rémy --------------------------------------------------------------------->
-            <div class="col-4 offset-2">
+            <div class="col-12 col-sm-4 offset-sm-2">
                 <div class="card w-100 h-100">
                     <h4 class="font-weight-bold mx-auto">Fiche du développeur</h4>
                     <div class="card-body">
@@ -29,7 +29,7 @@
                 </div>
             </div>
             <!--------------------------Photo Rémy -------------------------------------------------------------------->
-            <div class="col-4">
+            <div class="col-12 col-sm-4">
                 <div class="thumbnail">
                     <img class="effect rounded mx-auto d-block img-fluid img-thumbnail w-100 h-100"
                          src="images/moi.jpg"

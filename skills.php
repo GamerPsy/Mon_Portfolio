@@ -8,7 +8,7 @@
                 <h3 class="border-bottom text-center pb2">Back-end</h3>
             </div>
             <!----------------- PHP ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -21,7 +21,7 @@
                 </div>
             </div>
             <!----------------- SYMFONY ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -34,7 +34,7 @@
                 </div>
             </div>
             <!----------------- SQL ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -47,7 +47,7 @@
                 </div>
             </div>
             <!----------------- Python ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -60,7 +60,7 @@
                 </div>
             </div>
             <!----------------- PERL ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -73,7 +73,7 @@
                 </div>
             </div>
             <!----------------- JQuery ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -93,7 +93,7 @@
                 <h3 class="border-bottom text-center pb2">Front-end</h3>
             </div>
             <!----------------- HTML ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -106,7 +106,7 @@
                 </div>
             </div>
             <!----------------- CSS ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -119,7 +119,7 @@
                 </div>
             </div>
             <!----------------- JAVASCRIPT ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -132,7 +132,7 @@
                 </div>
             </div>
             <!----------------- TWIG ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -145,7 +145,7 @@
                 </div>
             </div>
             <!----------------- BOOTSTRAP ------------------->
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -166,7 +166,7 @@
             </div>
 
             <!----------------- Git ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -179,7 +179,7 @@
                 </div>
             </div>
             <!----------------- GITHUB ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -192,7 +192,7 @@
                 </div>
             </div>
             <!----------------- Doctrine ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -205,7 +205,7 @@
                 </div>
             </div>
             <!----------------- Koha ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -218,7 +218,7 @@
                 </div>
             </div>
             <!----------------- Lua ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
@@ -231,7 +231,7 @@
                 </div>
             </div>
             <!----------------- Love2D ------------------------>
-            <div class="col-2 pb-2">
+            <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
