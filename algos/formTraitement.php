@@ -12,13 +12,13 @@ if ($_POST) {
 
     if (empty($_POST['user_nom'])) {
         $errors['name1'] = "Votre nom doit être renseigné !";
-    } else{
+    } else {
         $_POST['user_nom'] = test_input($_POST['user_nom']);
     }
 
     if (empty($_POST['user_mail'])) {
         $errors['mail1'] = "Votre e-mail doit être renseigné !";
-    } else{
+    } else {
         $email = test_input($_POST['user_mail']);
         if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
             $errors['mail2'] = "Votre adresse mail est invalide, elle ne respecte pas le format dédié.";
@@ -53,13 +53,9 @@ if ($_POST) {
 			    Message:<br> ' . $_POST['user_message'] . '
 			 </div>';
 
-        if (mail($destinataire, $objet, $message, $headers)) {
-            echo '<script>alert("Votre message a bien été envoyé ");</script>';
-        } else
-        {
-            echo '<script>alert("Votre message n\'a pas pu être envoyé");</script>';
-        }
+        mail($destinataire, $objet, $message, $headers);
+        echo '<script>alert("Votre message a bien été envoyé ");</script>';
     }
-
+    unset($_POST);
 }
 ?>
