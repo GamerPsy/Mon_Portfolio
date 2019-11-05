@@ -70,6 +70,40 @@
                     </div>
                 </div>
             </div>
+            <!----------------- Hackathon 2 - Reporting Lab'O ------------------------>
+            <!--
+            <div class="col-6 pb-2">
+                <div class="card bg-danger">
+                    <div class="card-header">
+                        <h3 class="text-center">Hackathon : Reporting Lab'O</h3>
+                    </div>
+                    <img class="card-img-top" src="images/projet3.gif" alt="Reporting Lab'O"/>
+                    <div class="card-body">
+                        <h5 class="card-title">Reporting du Lab'O</h5>
+                        <p class="card-text">
+                            Participation à la conception et à la réalisation de l'application pour le Lab'O qui avait
+                            besoin de chiffrer son activité dans un soucis de reporting et de processus qualité.
+                        </p>
+                        <p class="card-skills">
+                            <span class="badge badge-info">Bootstrap 4</span>
+                            <span class="badge badge-info">Symfony</span>
+                            <span class="badge badge-info">PHP 7</span>
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <a role="button" class="btn btn-secondary"
+                           href="https://github.com/GamerPsy/WCS_Hackathon_2"
+                           title="Reporting_Labo" target="_blank">
+                            <i class="fab fa-github"></i>
+                        </a>
+                        <span class="mx-2">|</span>
+                        <i class="fas fa-clock mr-2"></i> 36 heures
+                        <span class="mx-2">|</span>
+                        <i class="fas fa-user mr-2"></i> 5 personnes
+                    </div>
+                </div>
+            </div>
+            -->
 
         </div>
 
@@ -113,37 +147,73 @@
                     </div>
                 </div>
             </div>
-        <!----------------- WCS Projet 1 - Intégration ------------------------>
-        <div class="col-6 pb-2">
-            <div class="card color-wcs">
-                <div class="card-header">
-                    <h3 class="text-center">Projet 1 à la Wild Code School</h3>
-                </div>
-                <img class="card-img-top" src="images/projet1.gif" alt="WCS-Projet1_JourneeSansChaussures"/>
-                <div class="card-body">
-                    <h5 class="card-title">Journée mondiale du travail sans chaussures</h5>
-                    <p class="card-text">
-                        Conception et réalisation d'un site web pour une association.
-                    </p>
-                    <p class="card-skills">
-                        <span class="badge badge-info">HTML 5</span>
-                        <span class="badge badge-info">CSS 3</span>
-                        <span class="badge badge-info">Bootstrap 4</span>
-                    </p>
-                </div>
-                <div class="card-footer">
-                    <a role="button" class="btn btn-secondary"
-                       href="https://github.com/GamerPsy/WCS_Projet1_JourneeSansChaussures"
-                       title="WCS-Projet1_JourneeSansChaussures" target="_blank">
-                        <i class="fab fa-github"></i>
-                    </a>
-                    <span class="mx-2">|</span>
-                    <i class="fas fa-clock mr-2"></i> 3 semaines
-                    <span class="mx-2">|</span>
-                    <i class="fas fa-user mr-2"></i> 3 personnes
+            <!----------------- Hackathon 1 - Bonbondex ------------------------>
+            <!--
+            <div class="col-6 pb-2">
+                <div class="card bg-danger">
+                    <div class="card-header">
+                        <h3 class="text-center">Hackathon : Bonbondex</h3>
+                    </div>
+                    <img class="card-img-top" src="images/projet3.gif" alt="Bonbondex"/>
+                    <div class="card-body">
+                        <h5 class="card-title">Le Bonbondex</h5>
+                        <p class="card-text">
+                            Participation à la conception et à la réalisation de l'application "Le Bonbondex" :
+                            rechercher et capturer des bonbons dans une ville.
+                            Utilisation d'une API.
+                        </p>
+                        <p class="card-skills">
+                            <span class="badge badge-info">HTML 5</span>
+                            <span class="badge badge-info">CSS 3</span>
+                            <span class="badge badge-info">Bootstrap 4</span>
+                            <span class="badge badge-info">PHP 7</span>
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <a role="button" class="btn btn-secondary"
+                           href="https://github.com/GamerPsy/WCS_Hackathon_1"
+                           title="Bonbondex" target="_blank">
+                            <i class="fab fa-github"></i>
+                        </a>
+                        <span class="mx-2">|</span>
+                        <i class="fas fa-clock mr-2"></i> 28 heures
+                        <span class="mx-2">|</span>
+                        <i class="fas fa-user mr-2"></i> 5 personnes
+                    </div>
                 </div>
             </div>
-        </div>
+            -->
+            <!----------------- WCS Projet 1 - Intégration ------------------------>
+            <div class="col-6 pb-2">
+                <div class="card color-wcs">
+                    <div class="card-header">
+                        <h3 class="text-center">Projet 1 à la Wild Code School</h3>
+                    </div>
+                    <img class="card-img-top" src="images/projet1.gif" alt="WCS-Projet1_JourneeSansChaussures"/>
+                    <div class="card-body">
+                        <h5 class="card-title">Journée mondiale du travail sans chaussures</h5>
+                        <p class="card-text">
+                            Conception et réalisation d'un site web pour une association.
+                        </p>
+                        <p class="card-skills">
+                            <span class="badge badge-info">HTML 5</span>
+                            <span class="badge badge-info">CSS 3</span>
+                            <span class="badge badge-info">Bootstrap 4</span>
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <a role="button" class="btn btn-secondary"
+                           href="https://github.com/GamerPsy/WCS_Projet1_JourneeSansChaussures"
+                           title="WCS-Projet1_JourneeSansChaussures" target="_blank">
+                            <i class="fab fa-github"></i>
+                        </a>
+                        <span class="mx-2">|</span>
+                        <i class="fas fa-clock mr-2"></i> 3 semaines
+                        <span class="mx-2">|</span>
+                        <i class="fas fa-user mr-2"></i> 3 personnes
+                    </div>
+                </div>
+            </div>
 </main>
 
 <?php include "include/footer.html" ?>
