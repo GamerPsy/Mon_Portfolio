@@ -30,6 +30,11 @@ ul
     background-color: #FDEBD0;
 }
 
+.color-wcs
+{
+    background-color:  #EB984E ;
+}
+
 .bande-annonce
 {
     margin: 0;
@@ -37,7 +42,7 @@ ul
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 80vh;
+    height: 85vh;
     background: #000;
 }
 
