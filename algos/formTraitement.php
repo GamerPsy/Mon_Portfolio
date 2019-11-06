@@ -37,8 +37,9 @@ if ($_POST) {
         $expediteur = $_POST['user_nom'];
         $objet = "message provenant du site pro";
 
-        $headers = 'MIME-Version: 1.0' . "\n"; // Version MIME
-        $headers .= 'Content-type: text/html; charset=ISO-8859-1' . "\n"; // l'en-tete Content-type pour le format HTML
+        //problème avec le header !!!
+        $headers = 'MIME-Version: 1.0' . "\n";
+        $headers .= 'Content-type: text/html; charset=ISO-8859-1' . "\n";
         $headers .= 'To: ' . $expediteur . "\n";
         $headers .= 'From: "Message provenant du site portfolio"<' . $expediteur . '>' . "\n";
 
@@ -46,15 +47,18 @@ if ($_POST) {
             <div style="width: 100%; font-weight: bold">
                 Bonjour Rémy
                 <br>
-                Voici un message provenant de votre site remy-ducry.fr :
+                Voici un message provenant de ton Portfolio :
                 <br><br>
                 Nom: ' . $_POST['user_nom'] . '<br>
 			    E-mail: ' . $_POST['user_mail'] . '<br>
 			    Message:<br> ' . $_POST['user_message'] . '
 			 </div>';
 
-        mail($destinataire, $objet, $message, $headers);
-        echo '<script>alert("Votre message a bien été envoyé ");</script>';
+        if (mail($destinataire, $objet, $message)) {
+            echo '<script>alert("Votre message a bien été envoyé ");</script>';
+        } else {
+            echo '<script>alert("Il y a un problème, votre mail n\'a pas été envoyé");</script>';
+        }
     }
     unset($_POST);
 }

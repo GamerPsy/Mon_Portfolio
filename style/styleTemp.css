@@ -11,7 +11,7 @@ nav
 main
 {
     padding-top: 70px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 
 .main-85
@@ -27,7 +27,7 @@ ul
 
 #msg
 {
-    height: 150px;
+    height: 140px;
 }
 .card
 {
