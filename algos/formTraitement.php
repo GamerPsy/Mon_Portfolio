@@ -37,22 +37,16 @@ if ($_POST) {
         $expediteur = $_POST['user_nom'];
         $objet = "message provenant du site pro";
 
-        //problème avec le header !!!
+        //problème avec le header !!! à refaire !!!!!!!
         $headers = 'MIME-Version: 1.0' . "\n";
         $headers .= 'Content-type: text/html; charset=ISO-8859-1' . "\n";
         $headers .= 'To: ' . $expediteur . "\n";
         $headers .= 'From: "Message provenant du site portfolio"<' . $expediteur . '>' . "\n";
 
-        $message = '
-            <div style="width: 100%; font-weight: bold">
-                Bonjour Rémy
-                <br>
-                Voici un message provenant de ton Portfolio :
-                <br><br>
-                Nom: ' . $_POST['user_nom'] . '<br>
-			    E-mail: ' . $_POST['user_mail'] . '<br>
-			    Message:<br> ' . $_POST['user_message'] . '
-			 </div>';
+        $message = 'Bonjour Rémy, voici un message provenant de ' . $_POST['user_nom'] . '
+                    <br>
+			        Son adresse mail: ' . $_POST['user_mail'] . '
+			        Son message: ' . $_POST['user_message'];
 
         if (mail($destinataire, $objet, $message)) {
             echo '<script>alert("Votre message a bien été envoyé ");</script>';
