@@ -78,12 +78,3 @@ ul
         background-position: 500%;
     }
 }
-
-iframe {
-    border: 1px solid black;
-    width: 50%;
-}
-
-.output {
-    background: #eee;
-}
