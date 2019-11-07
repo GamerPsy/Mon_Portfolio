@@ -7,7 +7,7 @@
             <div class="col-2 font-weight-bold">
                 <h5 class="font-weight-bold">2019</h5>
                 <a href="https://prebs.info/notre-fondation/" target="_blank">
-                    <img src="images/prebs.png" alt="PREBS" width="100" height="100">
+                    <img src="images/prebs.png" alt="PREBS" width="100" height="100" class="d-none d-md-block">
                 </a>
             </div>
             <div class="col-10">
@@ -28,13 +28,15 @@
                 2016 - 2018
                 <a href="https://libres-savoirs.regioncentre.fr/uPortal/espace/informations/article/3007"
                    target="_blank">
-                    <img src="images/VisasLibresSavoirs.png" alt="Visas Libres Savoirs" width="100" height="100">
+                    <img src="images/VisasLibresSavoirs.png" alt="Visas Libres Savoirs" width="100" height="100"
+                         class="d-none d-md-block">
                 </a>
             </div>
-            <div class="col-10">
+            <div class=" col-10">
                 <span class="font-weight-bold">Formateur pour adultes - Via Formation, Olivet</span>
                 <p>J'ai été formateur dans 2 domaines distincts : le Numérique et le Service à la personne.</p>
-                <p>Pour le service à la personne j'avais en charge des groupes de préparations aux concours sanitaires
+                <p>Pour le service à la personne j'avais en charge des groupes de préparations aux concours
+                    sanitaires
                     et sociaux (de niveau IV et V) et des groupes de préqualification au service à la personne.</p>
                 <p>Quant au numérique j'étais référent sur le dispositif du Visa Pro Numérique (un des visas du
                     dispositif "Visas Libres Savoirs").</p>
@@ -47,10 +49,11 @@
                 <h6 class="font-weight-bold">2016</h6>
                 <a href="https://pro.orange.fr/"
                    target="_blank">
-                    <img src="images/teleperformance.jpeg" alt="Teleperformance" width="100" height="100">
+                    <img src="images/teleperformance.jpeg" alt="Teleperformance" width="100" height="100"
+                         class="d-none d-md-block">
                 </a>
             </div>
-            <div class="col-10">
+            <div class=" col-10">
                 <span class="font-weight-bold">Conseiller Clientèle - Teleperformance, Fleury-les-Aubrais</span>
                 <p>En gérant des problématiques réseau ADSL pour les clients professionnels d'un grand opérateur
                     français, j'ai appris des notions de réseau informatique.</p>
@@ -79,10 +82,11 @@
             <div class="col-2">
                 <h6 class="font-weight-bold">2013</h6>
                 <a href="http://cyberkartie.e-monsite.com/" target="_blank">
-                    <img src="images/cyberkartie.jpg" alt="Association CyberKartié" width="100" height="100">
+                    <img src="images/cyberkartie.jpg" alt="Association CyberKartié" width="100" height="100"
+                         class="d-none d-md-block">
                 </a>
             </div>
-            <div class="col-10">
+            <div class=" col-10">
                 <span class="font-weight-bold">Employé polyvalent - Association Cyber-K@rtié, Marseille</span>
                 <p>CyberK@rtié était une association loi 1901 crée à l'origine pour lutter contre la fracture
                     numérique.</p>
