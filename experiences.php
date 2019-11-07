@@ -3,33 +3,32 @@
 <main class="bg-dark">
     <div class="container">
         <!--  2019 ----------------------------------------------------------------------------------------------->
-        <div class="row bg-info">
+        <div class="row bg-info mb-2">
             <div class="col-2 font-weight-bold">
                 <h5 class="font-weight-bold">2019</h5>
                 <a href="https://prebs.info/notre-fondation/" target="_blank">
-                    <img src="images/prebs.png" alt="PREBS" width="100" height="100" class="d-none d-md-block">
+                    <img src="images/prebs.png" alt="PREBS" width="100" height="100" class="d-none d-md-block mx-auto">
                 </a>
             </div>
             <div class="col-10">
                 <h5 class="font-weight-bold">Développeur logiciel (stage de 4 mois)</h5>
                 <p>Le PREBS (Portail de Références pour l’Enfant à Besoins Spécifiques » est une fondation belge
-                    d’utilité publique. Pour comprendre la complexité de l’organisation et ses objectifs rien ne vaut un
-                    passage sur le site de la fondation : https://prebs.info/</p>
+                    d’utilité publique.</p>
                 <p>Durant mon stage j’ai travaillé sur le projet de la mise en production d’un SIGB pour gérer les
                     ressources des 24 associations belges du réseau du PREBS.</p>
-                <p>Mon stage a duré 4 mois, j’ai travaillé essentiellement en remote avec un déplacement mensuel sur
+                <p>J’ai travaillé essentiellement en remote avec un déplacement mensuel sur
                     site de 2-3 jours.</p>
 
             </div>
         </div>
         <!-- 2016-2018 ------------------------------------------------------------------------------------------------>
-        <div class="row bg-info">
+        <div class="row bg-info mb-2">
             <div class="col-2 font-weight-bold">
                 2016 - 2018
                 <a href="https://libres-savoirs.regioncentre.fr/uPortal/espace/informations/article/3007"
                    target="_blank">
                     <img src="images/VisasLibresSavoirs.png" alt="Visas Libres Savoirs" width="100" height="100"
-                         class="d-none d-md-block">
+                         class="d-none d-md-block mx-auto">
                 </a>
             </div>
             <div class=" col-10">
@@ -44,13 +43,13 @@
             </div>
         </div>
         <!-- 2016 ------------------------------------------------------------------------------------------------>
-        <div class="row bg-info">
+        <div class="row bg-info mb-2 pb-2">
             <div class="col-2">
                 <h6 class="font-weight-bold">2016</h6>
                 <a href="https://pro.orange.fr/"
                    target="_blank">
                     <img src="images/teleperformance.jpeg" alt="Teleperformance" width="100" height="100"
-                         class="d-none d-md-block">
+                         class="d-none d-md-block mx-auto">
                 </a>
             </div>
             <div class=" col-10">
@@ -69,7 +68,7 @@
             </div>
         </div>
         <!-- 2013-2014 -------------------------------------------------------------------------------------------->
-        <div class="row bg-warning">
+        <div class="row bg-warning mb-2">
             <div class="col-2">
                 2013 - 2014
             </div>
@@ -78,12 +77,12 @@
             </div>
         </div>
         <!-- 2013 ------------------------------------------------------------------------------------------------>
-        <div class="row bg-info">
+        <div class="row bg-info mb-2">
             <div class="col-2">
                 <h6 class="font-weight-bold">2013</h6>
                 <a href="http://cyberkartie.e-monsite.com/" target="_blank">
                     <img src="images/cyberkartie.jpg" alt="Association CyberKartié" width="100" height="100"
-                         class="d-none d-md-block">
+                         class="d-none d-md-block mx-auto">
                 </a>
             </div>
             <div class=" col-10">
