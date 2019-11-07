@@ -32,7 +32,7 @@
                 </a>
             </div>
             <div class=" col-10">
-                <span class="font-weight-bold">Formateur pour adultes - Via Formation, Olivet</span>
+                <span class="font-weight-bold">Formateur pour adultes</span> - Via Formation, Olivet
                 <p>J'ai été formateur dans 2 domaines distincts : le Numérique et le Service à la personne.</p>
                 <p>Pour le service à la personne j'avais en charge des groupes de préparations aux concours
                     sanitaires
@@ -53,7 +53,7 @@
                 </a>
             </div>
             <div class=" col-10">
-                <span class="font-weight-bold">Conseiller Clientèle - Teleperformance, Fleury-les-Aubrais</span>
+                <span class="font-weight-bold">Conseiller Clientèle</span> - Teleperformance, Fleury-les-Aubrais
                 <p>En gérant des problématiques réseau ADSL pour les clients professionnels d'un grand opérateur
                     français, j'ai appris <span class="font-weight-bold font-italic">des notions de réseau informatique.
                     </span>
@@ -88,7 +88,7 @@
                 </a>
             </div>
             <div class=" col-10">
-                <span class="font-weight-bold">Employé polyvalent - Association Cyber-K@rtié, Marseille</span>
+                <span class="font-weight-bold">Employé polyvalent</span> - Association Cyber-K@rtié, Marseille
                 <p>CyberK@rtié était une association loi 1901 crée à l'origine pour lutter contre la fracture
                     numérique.</p>
                 <p>En tant qu'employé de l'association j'ai eu divers rôles/fonctions :</p>
