@@ -37,9 +37,9 @@
                 <p>Pour le service à la personne j'avais en charge des groupes de préparations aux concours
                     sanitaires
                     et sociaux (de niveau IV et V) et des groupes de préqualification au service à la personne.</p>
-                <p>Quant au numérique j'étais référent sur le dispositif du Visa Pro Numérique (un des visas du
-                    dispositif "Visas Libres Savoirs").</p>
-
+                <p>Quant au numérique j'étais <span class="font-weight-bold font-italic">référent sur le dispositif du
+                        Visa Pro Numérique</span> (un des visas du dispositif "Visas Libres Savoirs").
+                </p>
             </div>
         </div>
         <!-- 2016 ------------------------------------------------------------------------------------------------>
@@ -55,7 +55,9 @@
             <div class=" col-10">
                 <span class="font-weight-bold">Conseiller Clientèle - Teleperformance, Fleury-les-Aubrais</span>
                 <p>En gérant des problématiques réseau ADSL pour les clients professionnels d'un grand opérateur
-                    français, j'ai appris des notions de réseau informatique.</p>
+                    français, j'ai appris <span class="font-weight-bold font-italic">des notions de réseau informatique.
+                    </span>
+                </p>
             </div>
         </div>
         <!-- 2014 -------------------------------------------------------------------------------------------->
@@ -92,11 +94,12 @@
                 <p>En tant qu'employé de l'association j'ai eu divers rôles/fonctions :</p>
                 <ul>
                     <li>Standardiste/Réceptionniste</li>
-                    <li>Formateur pour les particuliers mais aussi pour un groupe de personnes âgées (les
+                    <li class="font-weight-bold font-italic">Formateur pour les particuliers mais aussi pour un groupe
+                        de personnes âgées (les
                         cybermerlins)
                     </li>
                     <li>Vendeur pour les ordinateurs reconditionnés/revalorisés</li>
-                    <li>Pre-diagnostic des pc amenés pour réparation</li>
+                    <li class="font-weight-bold font-italic">Pre-diagnostic des pc amenés pour réparation</li>
                     <li>Gestionnaire de l'espace cybercafé</li>
                     <li>Comptable</li>
                 </ul>
