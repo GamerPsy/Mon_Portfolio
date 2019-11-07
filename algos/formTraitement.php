@@ -43,8 +43,9 @@ if ($_POST) {
         $headers .= 'To: ' . $expediteur . "\n";
         $headers .= 'From: "Message provenant du site portfolio"<' . $expediteur . '>' . "\n";
 
-        $message = 'Bonjour Rémy, voici un message provenant de ' . $_POST['user_nom'] . ' (mail: ' . $_POST['user_mail'] . '
-			        ), son message: ' . $_POST['user_message'];
+        $message = 'Bonjour Rémy,
+                    voici un message provenant de ' . $_POST['user_nom'] . ' ( ' . $_POST['user_mail'] . ')
+                    son message: ' . $_POST['user_message'];
 
         if (mail($destinataire, $objet, $message)) {
             echo '<script>alert("Votre message a bien été envoyé ");</script>';
