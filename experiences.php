@@ -16,8 +16,7 @@
                     d’utilité publique.</p>
                 <p>Durant mon stage j’ai travaillé sur le projet de la mise en production d’un SIGB pour gérer les
                     ressources des 24 associations belges du réseau du PREBS.</p>
-                <p>J’ai travaillé essentiellement en remote avec un déplacement mensuel sur
-                    site de 2-3 jours.</p>
+                <p>J’ai travaillé essentiellement en remote avec un déplacement en Belgique de 2-3 jours par mois.</p>
 
             </div>
         </div>
@@ -32,13 +31,14 @@
                 </a>
             </div>
             <div class=" col-10">
-                <span class="font-weight-bold">Formateur pour adultes - Via Formation, Olivet</span>
+                <span class="font-weight-bold">Formateur pour adultes</span> - Via Formation, Olivet
                 <p>J'ai été formateur dans 2 domaines distincts : le Numérique et le Service à la personne.</p>
-                <p>Pour le service à la personne j'avais en charge des groupes de préparations aux concours
-                    sanitaires
-                    et sociaux (de niveau IV et V) et des groupes de préqualification au service à la personne.</p>
-                <p>Quant au numérique j'étais <span class="font-weight-bold font-italic">référent sur le dispositif du
+                <p>Pour le numérique j'étais <span class="font-weight-bold font-italic">référent sur le dispositif du
                         Visa Pro Numérique</span> (un des visas du dispositif "Visas Libres Savoirs").
+                </p>
+                <p>Quant au service à la personne j'avais en charge des groupes de préparations aux concours
+                    sanitaires et sociaux (de niveau IV et V) et des groupes de préqualification au service à la
+                    personne.
                 </p>
             </div>
         </div>
@@ -53,7 +53,7 @@
                 </a>
             </div>
             <div class=" col-10">
-                <span class="font-weight-bold">Conseiller Clientèle - Teleperformance, Fleury-les-Aubrais</span>
+                <span class="font-weight-bold">Conseiller Clientèle</span> - Teleperformance, Fleury-les-Aubrais
                 <p>En gérant des problématiques réseau ADSL pour les clients professionnels d'un grand opérateur
                     français, j'ai appris <span class="font-weight-bold font-italic">des notions de réseau informatique.
                     </span>
@@ -88,7 +88,7 @@
                 </a>
             </div>
             <div class=" col-10">
-                <span class="font-weight-bold">Employé polyvalent - Association Cyber-K@rtié, Marseille</span>
+                <span class="font-weight-bold">Employé polyvalent</span> - Association CyberK@rtié, Marseille
                 <p>CyberK@rtié était une association loi 1901 crée à l'origine pour lutter contre la fracture
                     numérique.</p>
                 <p>En tant qu'employé de l'association j'ai eu divers rôles/fonctions :</p>

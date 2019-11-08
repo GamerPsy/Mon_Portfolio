@@ -39,6 +39,60 @@ ul
     background-color:  #EB984E ;
 }
 
+.color-jv
+{
+    background-color: #91361f;
+}
+
+.color-compostelle
+{
+    background-color: #0f2e8b;
+}
+
+.color-netflix
+{
+    background-color: #ff0800;
+}
+
+.fond-sport
+{
+    background-color: #fed501;
+}
+
+.text-netflix
+{
+    color: #e2e1df;
+}
+
+.fond-gamecodeur
+{
+    background-color: #e0e0e0;
+}
+.card-gamecodeur
+{
+    background-color: #f1582d;
+}
+
+.text-gamecodeur
+{
+    color: #92361f;
+}
+
+.fond-card-netflix
+{
+    background-color: #010102;
+}
+
+.card-serie
+{
+    background-color: #ECF0F1;
+}
+
+.text-sport
+{
+    color: #e71e26;
+}
+
 .bande-annonce
 {
     margin: 0;
@@ -48,6 +102,12 @@ ul
     align-items: center;
     height: 85vh;
     background: #000;
+}
+
+.next-incoming
+{
+    height: 200px;
+    background-color: black;
 }
 
 .incoming
@@ -77,4 +137,13 @@ ul
     {
         background-position: 500%;
     }
+}
+
+.video-responsive iframe
+{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position: relative;
 }
