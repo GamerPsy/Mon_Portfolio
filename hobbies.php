@@ -167,7 +167,7 @@
                                 <p class="card-text text-netflix">
                                     Abonné depuis pas mal de temps je regarde essentiellement des films et séries
                                     touchant à l'imaginaire et à la réflexion. Voici ci-dessous quelques séries que je
-                                    regarde ou que j'attend.
+                                    regarde ou que j'attends.
                                 </p>
                             </div>
                         </div>
