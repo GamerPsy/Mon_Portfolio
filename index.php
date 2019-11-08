@@ -20,10 +20,10 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="card-footer">
-                        <a class="btn btn-dark mx-auto d-block w-50" type="button" target="_blank"
+                    <div class="card-footer h-100 w-100">
+                        <a class="btn color-compostelle mx-auto d-block w-100 h-100 pt-3" type="button" target="_blank"
                            href="/documents/Remy_DUCRY_Developpeur_Web_Junior.pdf">
-                            Télécharger le CV !
+                            <span class="font-weight-bold text-warning">Télécharger le CV !</span>
                         </a>
                     </div>
                 </div>
