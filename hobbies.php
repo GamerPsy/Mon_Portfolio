@@ -3,7 +3,7 @@
 <main class="bg-dark">
     <div class="container">
         <!-----------------------------------LES JEUX VIDEOS ------------------------------------------------------>
-        <div class="card bg-secondary mx-auto">
+        <div class="card bg-dark mx-auto">
             <button class="btn color-jv text-light btn-lg mx-auto d-block font-weight-bold w-50 my-3" type="button"
                     data-toggle="collapse"
                     data-target="#videoGames"
@@ -150,7 +150,7 @@
             </div>
         </div>
         <!----------------------------------- LES SERIES TV ------------------------------------------------------->
-        <div class="card bg-secondary mx-auto pt-2 my-2">
+        <div class="card bg-dark mx-auto pt-2 mt-5">
             <button class="btn color-netflix btn-lg mx-auto d-block w-50 mb-3" type="button" data-toggle="collapse"
                     data-target="#seriesTv"
                     aria-expanded="false" aria-controls="seriesTv">
@@ -217,7 +217,7 @@
             </div>
         </div>
         <!-----------------------------------LE RUNNING ----------------------------------------------------------->
-        <div class="card bg-secondary mx-auto pt-2">
+        <div class="card bg-dark mx-auto pt-2 mt-5">
             <button class="btn fond-sport btn-lg mx-auto d-block w-50 mb-3" type="button" data-toggle="collapse"
                     data-target="#running"
                     aria-expanded="false" aria-controls="running">
@@ -284,7 +284,7 @@
             </div>
         </div>
         <!----------------------------------- LA RANDONNEE -------------------------------------------------------->
-        <div class="card bg-secondary mx-auto pt-2 my-2">
+        <div class="card bg-dark mx-auto pt-2 mt-5">
             <button class="btn color-compostelle btn-lg mx-auto d-block text-warning font-weight-bold w-50 mb-3"
                     type="button" data-toggle="collapse"
                     data-target="#randonnee"
