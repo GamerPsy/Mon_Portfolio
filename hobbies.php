@@ -14,157 +14,135 @@
         <div class="collapse" id="videoGames">
             <div class="card card-body color-jv">
                 <div class="row">
-                    <!----------------- Mon portfolio ------------------------>
+                    <!----------------- Présentation de Gamecodeur  ------------------------------------------>
+                    <div class="col-12 pb-2">
+                        <div class="card bg-success h-100">
+                            <div class="card-body fond-gamecodeur">
+                                <p class="card-text text-gamecodeur font-weight-bold">
+                                    A la fin de ma formation à la Wild Code School j'ai découvert l'existence de
+                                    Gamecodeur, il s'agit d'une école en ligne qui forme ceux qui le souhaite à la
+                                    programmation de jeu vidéo.<br/>
+                                    Ce qui m'a séduit chez Gamecodeur c'est le discours de fond de David (le fondateur),
+                                    un programmeur doit comprendre et s'adapter quel que soit le langage et le
+                                    framework.
+                                    Ainsi, et j'y adhère à 200%, si on fait le choix d'utiliser un framework ça ne doit
+                                    pas être pour pâlier à des lacunes techniques mais pour palier à un manque de temps.
+                                    <br/>
+                                    Je suis membre premium depuis septembre 2019.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!----------------- Gamecodeur ------------------------>
                     <div class="col-12 col-sm-6 pb-2">
-                        <div class="card bg-success h-100">
+                        <div class="card fond-gamecodeur h-100">
                             <div class="card-header">
-                                <h3 class="text-center">Projet perso : mon portfolio</h3>
+                                <h3 class="text-center text-gamecodeur font-weight-bold">Gamecodeur</h3>
                             </div>
-                            <img class="card-img-top" src="images/portfolio.png" alt="Mon Portfolio"/>
+                            <div class="video-responsive">
+                                <iframe width="310" height="150" src="https://www.youtube.com/embed/1IGoQpHnsaA"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                        allowfullscreen></iframe>
+                            </div>
                             <div class="card-body">
-                                <h5 class="card-title">Mon portfolio</h5>
+                                <h5 class="card-title">Mon apprentissage chez Gamecodeur</h5>
                                 <p class="card-text">
-                                    Conception et réalisation de mon portfolio en ligne. Me permet de revoir mes
-                                    bases
-                                    et
-                                    d'utiliser mes compétences pour mon propre compte ^^
+                                    Pour le moment je n'ai pas réussi à me mobiliser pour continuer mais c'est prévu, ma
+                                    reprise du parcours Gamecodeur, pour janvier 2020 au plus tard.<br/>
+                                    J'en suis à l'atelier sur les bases, il me reste la création d'un casse-brique et
+                                    faire voler un vaisseau spatial avant la suite.
                                 </p>
-                            </div>
-                            <div class="card-footer">
-                                <a role="button" class="btn btn-secondary"
-                                   href="https://github.com/GamerPsy/Mon_Portfolio"
-                                   title="Mon portfolio" target="_blank">
-                                    <i class="fab fa-github"></i>
-                                </a>
-                                <span class="mx-2">|</span>
-                                <i class="fas fa-user mr-2"></i> Moi-même !
                             </div>
                         </div>
                     </div>
-                    <!----------------- WCS Projet 3 - Application pour client ------------------------>
+                    <!----------------- Mon coin gaming -------------------------------------------------------------->
                     <div class="col-12 col-sm-6 pb-2">
-                        <div class="card color-wcs h-100">
+                        <div class="card fond-gamecodeur h-100">
                             <div class="card-header">
-                                <h3 class="text-center">Projet 3 à la Wild Code School</h3>
+                                <h3 class="text-center text-gamecodeur font-weight-bold">Gaming</h3>
                             </div>
-                            <img class="card-img-top" src="images/projet3.png" alt="Simulateur_Pinel"/>
+                            <div class="video-responsive">
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/dM8fVngJBAc"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                        allowfullscreen></iframe>
+                            </div>
                             <div class="card-body">
-                                <h5 class="card-title">Simulateur Pinel</h5>
+                                <h5 class="card-title">Hero Wars</h5>
                                 <p class="card-text">
-                                    Conception et réalisation d'une application métier à l'usage des
-                                    gestionnaires
-                                    de
-                                    biens
-                                    immobiliser pour un simulateur loi Pinel.
+                                    Je joue beaucoup moins qu'à une époque où j'étais plutôt hardcore en terme
+                                    d'investissement (World of Warcraft principalement de Vanilla jusqu'à Cataclysm).
+                                    <br/>
+                                    Aujourd'hui je joue essentiellement à Hero Wars sur mobile et à Heartstone de temps
+                                    en temps sur ma session Windows. Mais l'annonce de Diablo IV a semble-t-il réveillé
+                                    quelque chose en moi !
                                 </p>
-                            </div>
-                            <div class="card-footer">
-                                <a role="button" class="btn btn-secondary"
-                                   href="https://github.com/GamerPsy/WCS_Projet3_SimulateurLoiPinel"
-                                   title="Simulateur_Pinel" target="_blank">
-                                    <i class="fab fa-github"></i>
-                                </a>
-                                <span class="mx-2">|</span>
-                                <i class="fas fa-clock mr-2"></i> 8 semaines
-                                <span class="mx-2">|</span>
-                                <i class="fas fa-user mr-2"></i> 5 personnes
                             </div>
                         </div>
                     </div>
-
-                    <!----------------- Apprentissage : JAVA JEE ------------------------>
+                    <!--- SECTION DES PROCHAINS APPRENTISSAGES SUR GAMECODEUR ------------------------------------->
+                    <div class="col-12">
+                        <button type="button" class="btn btn-secondary btn-lg btn-block mb-3" disabled>
+                            <h3 class="border-bottom text-center pb2">Mes prochains apprentissages</h3>
+                        </button>
+                    </div>
+                    <!----------------- Casse briques -------------------------------------------------------------->
                     <div class="col-12 col-sm-4 pb-2">
-                        <div class="card bg-success h-100">
+                        <div class="card fond-gamecodeur h-100">
                             <div class="card-header">
-                                <h3 class="text-center">Java</h3>
+                                <h3 class="text-center text-gamecodeur font-weight-bold">Casse brique</h3>
                             </div>
                             <div class="card-body">
                                 <p class="card-text">
-                                    Je vais me lancer dans l'apprentissage de ce langage via la plateforme
-                                    d'enseignement de la
-                                    Wild Code School (Odyssey) et compléter si besoin. Je créerai une repository
-                                    avec
-                                    plusieurs
-                                    branches sur Github pour la correction des quêtes.
-                                </p>
-                                <p class="card-skills">
-                                    <span class="badge badge-info">Apprentissage</span>
-                                    <span class="badge badge-info">Développeur</span>
+                                    Je vais suivre un atelier où je vais coder un casse-brique.
                                 </p>
                             </div>
                             <div class="card-footer">
-                                <a role="button" class="btn btn-secondary"
-                                   href=""
-                                   title="Ma progression en Java" target="_blank">
-                                    <i class="fab fa-github"></i>
-                                </a>
-                                <span class="mx-2">|</span>
-                                <i class="fas fa-user mr-2"></i> Moi-même !
+                                <p class="card-skills">
+                                    <span class="badge badge-info">Lua</span>
+                                    <span class="badge badge-info">LOVE 2D</span>
+                                </p>
                             </div>
                         </div>
                     </div>
-                    <!----------------- Apprentissage : Docker ------------------------>
+                    <!----------------- Faire voler un vaisseau -------------------------------------------------->
                     <div class="col-12 col-sm-4 pb-2">
-                        <div class="card bg-success h-100">
+                        <div class="card fond-gamecodeur h-100">
                             <div class="card-header">
-                                <h3 class="text-center">Docker</h3>
+                                <h3 class="text-center text-gamecodeur font-weight-bold">Gérer un vaisseau</h3>
                             </div>
                             <div class="card-body">
                                 <p class="card-text">
-                                    Mon stage avec le PREBS m'a fait prendre conscience de l'aspect devOps qu'il
-                                    y a
-                                    dans tout
-                                    process pour qu'un site ou une application soit disponible sur internet. Du
-                                    coup
-                                    c'est un
-                                    apprentissage qui me parait logique pour moi.
-                                </p>
-                                <p class="card-skills">
-                                    <span class="badge badge-info">Apprentissage</span>
-                                    <span class="badge badge-info">DevOps</span>
+                                    Dans cet atelier il va s'agir de faire voler un vaisseau pour tester la physique.
                                 </p>
                             </div>
                             <div class="card-footer">
-                                <a role="button" class="btn btn-secondary"
-                                   href=""
-                                   title="Docker" target="_blank">
-                                    <i class="fab fa-github"></i>
-                                </a>
-                                <span class="mx-2">|</span>
-                                <i class="fas fa-user mr-2"></i> Moi-même !
+                                <p class="card-skills">
+                                    <span class="badge badge-info">Lua</span>
+                                    <span class="badge badge-info">LOVE 2D</span>
+                                </p>
                             </div>
                         </div>
                     </div>
                     <!----------------- Jeux vidéos : plateformer avec dinosaures ------------------------>
                     <div class="col-12 col-sm-4 pb-2">
-                        <div class="card bg-success h-100">
+                        <div class="card fond-gamecodeur h-100">
                             <div class="card-header">
-                                <h3 class="text-center">Dino Jungle</h3>
+                                <h3 class="text-center text-gamecodeur font-weight-bold">Dino Jungle</h3>
                             </div>
                             <div class="card-body">
                                 <p class="card-text">
                                     Projet pour m'initier à la programmation de jeu vidéo, une idée assez simple
-                                    mais
-                                    qui
-                                    me permettra de toucher à des concepts de collisions, scores et peut-être
-                                    même
-                                    une
-                                    IA pour
-                                    les ennemis.
-                                </p>
-                                <p class="card-skills">
-                                    <span class="badge badge-info">Lua</span>
-                                    <span class="badge badge-info">Love 2D</span>
+                                    mais qui me permettra de toucher à des concepts de collisions, scores et peut-être
+                                    même une IA pour les ennemis.
                                 </p>
                             </div>
                             <div class="card-footer">
-                                <a role="button" class="btn btn-secondary"
-                                   href=""
-                                   title="Dino Jungle" target="_blank">
-                                    <i class="fab fa-github"></i>
-                                </a>
-                                <span class="mx-2">|</span>
-                                <i class="fas fa-user mr-2"></i> Moi-même !
+                                <p class="card-skills">
+                                    <span class="badge badge-info">Lua</span>
+                                    <span class="badge badge-info">LOVE 2D</span>
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -200,7 +178,7 @@
                             <div class="card-header">
                                 <h3 class="text-center text-sport">Ma favorite</h3>
                             </div>
-                            <img class="card-img-top mx-auto img-fluid w-100 h-100" src="images/blackMirror.jpg"
+                            <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/blackMirror.jpg"
                                  alt="Black Mirror"/>
                             <div class="card-footer">
                                 <h5>Black Mirror</h5>
@@ -213,7 +191,7 @@
                             <div class="card-header">
                                 <h3 class="text-center text-sport">Actuellement</h3>
                             </div>
-                            <img class="card-img-top mx-auto img-fluid w-100 h-100" src="images/better-than-us.jpg"
+                            <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/better-than-us.jpg"
                                  alt="Better Than Us"/>
                             <div class="card-footer">
                                 <h5>Better than us</h5>
@@ -227,7 +205,7 @@
                             <div class="card-header">
                                 <h3 class="text-center text-sport">Prochainement</h3>
                             </div>
-                            <img class="card-img-top mx-auto img-fluid w-100 h-100" src="images/theWitcher.jpg"
+                            <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/theWitcher.jpg"
                                  alt="The Witcher"/>
                             <div class="card-footer">
                                 <h5>The Witcher</h5>
@@ -268,7 +246,8 @@
                             <div class="card-header">
                                 <h4 class="text-center text-warning">Zombie Run Night 2018</h4>
                             </div>
-                            <img class="card-img-top mx-auto img-fluid w-100 h-100" src="images/zombieRunNight2018.jpg" alt="Zombie Run Night 2018"/>
+                            <img class="card-img-top mx-auto img-fluid w-100 h-100" src="images/zombieRunNight2018.jpg"
+                                 alt="Zombie Run Night 2018"/>
                             <div class="card-footer">
                                 <i class="fas fa-clock mr-2"></i> été 2019
                             </div>

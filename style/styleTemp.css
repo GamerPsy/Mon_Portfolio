@@ -64,6 +64,20 @@ ul
     color: #e2e1df;
 }
 
+.fond-gamecodeur
+{
+    background-color: #e0e0e0;
+}
+.card-gamecodeur
+{
+    background-color: #f1582d;
+}
+
+.text-gamecodeur
+{
+    color: #92361f;
+}
+
 .fond-card-netflix
 {
     background-color: #010102;
@@ -123,4 +137,13 @@ ul
     {
         background-position: 500%;
     }
+}
+
+.video-responsive iframe
+{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position: relative;
 }
