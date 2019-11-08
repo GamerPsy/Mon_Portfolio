@@ -1,7 +1,7 @@
 <?php include "include/head.html" ?>
 <?php require_once "algos/formTraitement.php" ?>
 
-<main class="bg-dark">
+<main class="bg-dark main-85">
     <div class="container w-100 h-100">
         <div class="row h-100">
             <div class="col-12 h-100">
@@ -38,7 +38,8 @@
                             </div>
                     </div>
                     <div class="card-footer">
-                        <button class="btn btn-dark mx-auto d-block" type="submit">Envoyer votre message à Rémy !
+                        <button class="btn color-compostelle text-warning font-weight-bold mx-auto d-block w-50"
+                                type="submit">Envoyer votre message à Rémy !
                         </button>
                     </div>
                     </form>
