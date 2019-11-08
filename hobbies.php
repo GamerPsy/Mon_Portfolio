@@ -301,9 +301,7 @@
                             <div class="card-header">
                                 <h3 class="text-center text-warning">1er chemin</h3>
                             </div>
-                            <a href="http://www.compostelle45.fr/" target="_blank">
-                                <img class="card-img-top" src="images/portfolio.png" alt="Compostelle 2019"/>
-                            </a>
+                                <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/arriveesantiago2019.jpg" alt="Compostelle 2019"/>
                             <div class="card-body">
                                 <h5 class="card-title">Bordeaux > Santiago > Fisterra</h5>
                                 <p class="card-text">
@@ -322,7 +320,7 @@
                             <div class="card-header">
                                 <h3 class="text-center text-warning">Compostelle 45</h3>
                             </div>
-                            <img class="card-img-top" src="images/compostelle45.png" alt="Compostelle 45"/>
+                            <img class="card-img-top mx-auto img-fluid w-100 h-50" src="images/compostelle45.png" alt="Compostelle 45"/>
                             <div class="card-body">
                                 <h5 class="card-title">Adhérent depuis juillet 2019</h5>
                                 <p class="card-text">
