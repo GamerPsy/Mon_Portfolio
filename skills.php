@@ -10,7 +10,7 @@
             <!----------------- PHP ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/langages/Logo_PHP.png" alt="PHP 7"/></p>
                     </div>
@@ -23,7 +23,7 @@
             <!----------------- SYMFONY ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/frameworks/Logo_symfony.png" alt="Symfony 4"/></p>
                     </div>
@@ -36,7 +36,7 @@
             <!----------------- SQL ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/langages/Logo_SQL.png" alt="SQL"/></p>
                     </div>
@@ -49,7 +49,7 @@
             <!----------------- Python ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/langages/Logo_python.png" alt="Python"/></p>
                     </div>
@@ -62,7 +62,7 @@
             <!----------------- PERL ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/langages/Logo_PERL.png" alt="PERL"/></p>
                     </div>
@@ -75,7 +75,7 @@
             <!----------------- JQuery ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/frameworks/Logo_JQUERY.png" alt="JQUERY"/></p>
                     </div>
@@ -94,7 +94,7 @@
             <!----------------- FRANCE IOI ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <a href="http://www.france-ioi.org/user/perso.php?sLogin=remy45" target="_blank">
                             <p class="effect rounded mx-auto d-block img-fluid pt-3"><img
                                         src="images/franceioi.png" alt="France IOI"/></p>
@@ -109,7 +109,7 @@
             <!----------------- CODEWARS ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <a href="https://www.codewars.com/users/GamerPsy/stats" target="_blank">
                             <p class="effect rounded mx-auto d-block img-fluid pt-4"><img
                                         src="https://www.codewars.com/users/GamerPsy/badges/micro" alt="CodeWars"/></p>
@@ -131,7 +131,7 @@
             <!----------------- HTML ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/langages/Logo_HTML5.png" alt="HTML 5"/></p>
                     </div>
@@ -144,7 +144,7 @@
             <!----------------- CSS ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/langages/Logo_CSS3.png" alt="CSS 3"/></p>
                     </div>
@@ -157,7 +157,7 @@
             <!----------------- BOOTSTRAP ------------------->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/frameworks/bootstrap-4.png" alt="Bootstrap 4"/></p>
                     </div>
@@ -170,7 +170,7 @@
             <!----------------- TWIG ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/outils/Logo_twig.png" alt="TWIG"/></p>
                     </div>
@@ -183,7 +183,7 @@
             <!----------------- JAVASCRIPT ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/langages/Logo_JS.png" alt="Javascript"/></p>
                     </div>
@@ -204,7 +204,7 @@
             <!----------------- Git ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/outils/Logo_git.png" alt="Git"/></p>
                     </div>
@@ -217,7 +217,7 @@
             <!----------------- GITHUB ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/outils/Logo_github.png" alt="Github"/></p>
                     </div>
@@ -230,7 +230,7 @@
             <!----------------- Doctrine ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/outils/Logo_doctrine.png" alt="Doctrine"/></p>
                     </div>
@@ -243,8 +243,8 @@
             <!----------------- Koha ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
-                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid pt-3"><img
                                     src="images/outils/Logo_Koha.png" alt="Koha"/></p>
                     </div>
                     <div class="card-footer">
@@ -256,7 +256,7 @@
             <!----------------- Lua ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/langages/Logo_lua.png" alt="Lua"/></p>
                     </div>
@@ -269,7 +269,7 @@
             <!----------------- Love2D ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
+                    <div class="card-body bg-secondary">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/frameworks/Love2D.png" alt="LOVE 2D"/></p>
                     </div>
