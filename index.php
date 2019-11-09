@@ -1,6 +1,6 @@
 <?php include "include/head.html" ?>
 
-<main class="bg-dark">
+<main class="bg-dark main-85">
     <div class="container mt-auto">
         <div class="row">
             <!-------------------------Infos Rémy --------------------------------------------------------------------->

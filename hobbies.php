@@ -1,6 +1,6 @@
 <?php include "include/head.html" ?>
 
-<main class="bg-dark">
+<main class="bg-dark main-85">
     <div class="container">
         <!-----------------------------------LES JEUX VIDEOS ------------------------------------------------------>
         <div class="card bg-dark mx-auto">
