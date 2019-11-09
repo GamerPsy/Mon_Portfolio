@@ -2,6 +2,13 @@
 
 <main class="bg-dark main-85">
     <div class="container">
+        <div class="row">
+            <div class="col-12 w-100">
+                <button type="button" class="btn btn-secondary btn-lg btn-block mb-3" disabled>
+                    <h1 class="border-bottom text-center pb2">Mes hobbies</h1>
+                </button>
+            </div>
+        </div>
         <!-----------------------------------LES JEUX VIDEOS ------------------------------------------------------>
         <div class="card bg-dark mx-auto">
             <button class="btn color-jv text-light btn-lg mx-auto d-block font-weight-bold w-50 my-3" type="button"
@@ -150,7 +157,7 @@
             </div>
         </div>
         <!----------------------------------- LES SERIES TV ------------------------------------------------------->
-        <div class="card bg-dark mx-auto pt-2 mt-5">
+        <div class="card bg-dark mx-auto pt-2 mt-3">
             <button class="btn color-netflix btn-lg mx-auto d-block w-50 mb-3" type="button" data-toggle="collapse"
                     data-target="#seriesTv"
                     aria-expanded="false" aria-controls="seriesTv">
@@ -217,7 +224,7 @@
             </div>
         </div>
         <!-----------------------------------LE RUNNING ----------------------------------------------------------->
-        <div class="card bg-dark mx-auto pt-2 mt-5">
+        <div class="card bg-dark mx-auto pt-2 mt-3">
             <button class="btn fond-sport btn-lg mx-auto d-block w-50 mb-3" type="button" data-toggle="collapse"
                     data-target="#running"
                     aria-expanded="false" aria-controls="running">
@@ -284,7 +291,7 @@
             </div>
         </div>
         <!----------------------------------- LA RANDONNEE -------------------------------------------------------->
-        <div class="card bg-dark mx-auto pt-2 mt-5">
+        <div class="card bg-dark mx-auto pt-2 mt-3">
             <button class="btn color-compostelle btn-lg mx-auto d-block text-warning font-weight-bold w-50 mb-3"
                     type="button" data-toggle="collapse"
                     data-target="#randonnee"

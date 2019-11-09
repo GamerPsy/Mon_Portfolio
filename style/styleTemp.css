@@ -22,13 +22,13 @@ main
 .main-contact
 {
     min-height: 85vh;
-    padding-top: 15vh;
+    padding-top: 10vh;
 }
 
 .main-formation
 {
     min-height: 85vh;
-    padding-top: 10vh;
+    padding-top: 5vh;
 }
 
 ul
