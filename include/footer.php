@@ -1,7 +1,8 @@
+<?php require_once "algos/date.php" ?>
 <footer class="bg-black text-center text-white mt-3 mb-2">
     <div class="container">
         <div>
-            © 2019 Copyright : <a href="https://remy-ducry.fr">Rémy DUCRY</a> - Développeur Web
+            © <?= $currentYear?> Copyright : <a href="https://remy-ducry.fr">Rémy DUCRY</a> - Développeur Web
         </div>
         <!-- github -->
         <a href="https://github.com/GamerPsy" target="_blank"><i class="fab fa-github fa-4x"></i></a>

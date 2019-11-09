@@ -1,4 +1,5 @@
 <?php include "include/head.html" ?>
+<?php include "algos/date.php" ?>
 
 <main class="bg-dark main-85">
     <div class="container mt-auto">
@@ -10,7 +11,7 @@
                     <div class="card-body">
                         <ul>
                             <li><span class="font-weight-bold">Nom :</span> DUCRY Rémy</li>
-                            <li><span class="font-weight-bold">Age :</span> 41 ans</li>
+                            <li><span class="font-weight-bold">Age :</span> <?= $ageOfRemy?> ans</li>
                             <li><span class="font-weight-bold">Langage :</span> PHP</li>
                             <li><span class="font-weight-bold">Localisation :</span> Orléans</li>
                             <li><span class="font-weight-bold">Mobilité :</span> transports en commun.</li>
@@ -106,4 +107,4 @@
         </div>
 </main>
 
-<?php include "include/footer.html" ?>
+<?php include "include/footer.php" ?>
