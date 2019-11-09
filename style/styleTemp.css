@@ -16,7 +16,19 @@ main
 
 .main-85
 {
-    height: 85vh;
+    min-height: 85vh;
+}
+
+.main-contact
+{
+    min-height: 85vh;
+    padding-top: 15vh;
+}
+
+.main-formation
+{
+    min-height: 85vh;
+    padding-top: 10vh;
 }
 
 ul
@@ -32,6 +44,11 @@ ul
 .card
 {
     background-color: #FDEBD0;
+}
+
+.text-orange
+{
+    color: orange;
 }
 
 .color-wcs

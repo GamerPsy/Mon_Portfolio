@@ -1,7 +1,7 @@
 <?php include "include/head.html" ?>
 <?php require_once "algos/formTraitement.php" ?>
 
-<main class="bg-dark main-85">
+<main class="bg-dark main-contact">
     <div class="container w-100 h-100">
         <div class="row h-100">
             <div class="col-12 h-100">
@@ -49,4 +49,4 @@
     </div>
 </main>
 
-<?php include "include/footer.html" ?>
+<?php include "include/footer.php" ?>
