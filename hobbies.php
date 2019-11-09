@@ -178,7 +178,7 @@
                             <div class="card-header">
                                 <h3 class="text-center text-sport">Ma favorite</h3>
                             </div>
-                            <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/blackMirror.jpg"
+                            <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/netflix/blackMirror.jpg"
                                  alt="Black Mirror"/>
                             <div class="card-footer">
                                 <h5>Black Mirror</h5>
@@ -191,7 +191,7 @@
                             <div class="card-header">
                                 <h3 class="text-center text-sport">Actuellement</h3>
                             </div>
-                            <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/better-than-us.jpg"
+                            <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/netflix/better-than-us.jpg"
                                  alt="Better Than Us"/>
                             <div class="card-footer">
                                 <h5>Better than us</h5>
@@ -205,7 +205,7 @@
                             <div class="card-header">
                                 <h3 class="text-center text-sport">Prochainement</h3>
                             </div>
-                            <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/theWitcher.jpg"
+                            <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/netflix/theWitcher.jpg"
                                  alt="The Witcher"/>
                             <div class="card-footer">
                                 <h5>The Witcher</h5>
@@ -246,7 +246,7 @@
                             <div class="card-header">
                                 <h4 class="text-center text-warning">Zombie Run Night 2018</h4>
                             </div>
-                            <img class="card-img-top mx-auto img-fluid w-100 h-100" src="images/zombieRunNight2018.jpg"
+                            <img class="card-img-top mx-auto img-fluid w-100 h-100" src="images/running/zombieRunNight2018.jpg"
                                  alt="Zombie Run Night 2018"/>
                             <div class="card-footer">
                                 <i class="fas fa-clock mr-2"></i> été 2019
@@ -301,7 +301,7 @@
                             <div class="card-header">
                                 <h3 class="text-center text-warning">1er chemin</h3>
                             </div>
-                                <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/arriveesantiago2019.jpg" alt="Compostelle 2019"/>
+                                <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/randonnee/arriveesantiago2019.jpg" alt="Compostelle 2019"/>
                             <div class="card-body">
                                 <h5 class="card-title">Bordeaux > Santiago > Fisterra</h5>
                                 <p class="card-text">
@@ -320,7 +320,7 @@
                             <div class="card-header">
                                 <h3 class="text-center text-warning">Compostelle 45</h3>
                             </div>
-                            <img class="card-img-top mx-auto img-fluid w-100 h-50" src="images/compostelle45.png" alt="Compostelle 45"/>
+                            <img class="card-img-top mx-auto img-fluid w-100 h-50" src="images/randonnee/compostelle45.png" alt="Compostelle 45"/>
                             <div class="card-body">
                                 <h5 class="card-title">Adhérent depuis juillet 2019</h5>
                                 <p class="card-text">
@@ -335,7 +335,7 @@
                     <!----------------- Santiago 2019 ------------------------>
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card bg-primary h-100">
-                            <img class="card-img-top" src="images/santiago2019.jpg" alt="Santiago 2019"/>
+                            <img class="card-img-top" src="images/randonnee/santiago2019.jpg" alt="Santiago 2019"/>
                             <div class="card-footer">
                                 <i class="fas fa-clock text-warning mr-2"></i> 20 août 2019
                             </div>
@@ -344,7 +344,7 @@
                     <!----------------- Fisterra 2019 ------------------------>
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card bg-primary h-100">
-                            <img class="card-img-top" src="images/fisterra2019.jpg" alt="Fisterra 2019"/>
+                            <img class="card-img-top" src="images/randonnee/fisterra2019.jpg" alt="Fisterra 2019"/>
                             <div class="card-footer">
                                 <i class="fas fa-clock text-warning mr-2"></i> 22 août 2019
                             </div>
@@ -353,7 +353,7 @@
                     <!----------------- Fisterra Night 2019 ------------------------>
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card bg-primary h-100">
-                            <img class="card-img-top" src="images/fisterraNight2019.jpg" alt="Fisterra Night 2019"/>
+                            <img class="card-img-top" src="images/randonnee/fisterraNight2019.jpg" alt="Fisterra Night 2019"/>
                             <div class="card-footer">
                                 <i class="fas fa-clock text-warning mr-2"></i> 22 août 2019
                             </div>

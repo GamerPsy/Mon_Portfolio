@@ -97,7 +97,7 @@
                     <div class="card-body bg-secondary">
                         <a href="http://www.france-ioi.org/user/perso.php?sLogin=remy45" target="_blank">
                             <p class="effect rounded mx-auto d-block img-fluid pt-3"><img
-                                        src="images/franceioi.png" alt="France IOI"/></p>
+                                        src="images/algorithmie/franceioi.png" alt="France IOI"/></p>
                         </a>
                     </div>
                     <div class="card-footer">
@@ -195,10 +195,10 @@
             </div>
         </div>
 
-        <!-------------------------------------   SECTION AUTRE  -------------------------------------------------->
+        <!-------------------------------------   METHODOLOGIE  -------------------------------------------------->
         <div class="row bg-warning">
             <div class="col-12">
-                <h3 class="border-bottom text-center pb2">Autre</h3>
+                <h3 class="border-bottom text-center pb2">Methodologie</h3>
             </div>
 
             <!----------------- Git ------------------------>
@@ -227,6 +227,52 @@
                     </div>
                 </div>
             </div>
+            <!----------------- POO ------------------------------------------------------------------------------->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                    src="images/methodologie/poo.png" alt="POO"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">POO</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
+                    </div>
+                </div>
+            </div>
+            <!----------------- TDD ------------------------------------------------------------------------------->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                    src="images/methodologie/tdd.png" alt="TDD"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">TDD</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
+                    </div>
+                </div>
+            </div>
+            <!----------------- SCRUM/Agile ------------------------------------------------------------------------------->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="my-3"><i class="fas fa-users fa-4x"></i></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">SCRUM / Agile</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-------------------------------------   SECTION AUTRE  -------------------------------------------------->
+        <div class="row bg-warning">
+            <div class="col-12">
+                <h3 class="border-bottom text-center pb2">Autre</h3>
+            </div>
+
             <!----------------- Doctrine ------------------------>
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">

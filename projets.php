@@ -110,7 +110,7 @@
                     <div class="card-header">
                         <h3 class="text-center">Projet perso : mon portfolio</h3>
                     </div>
-                    <img class="card-img-top" src="images/portfolio.png" alt="Mon Portfolio"/>
+                    <img class="card-img-top" src="images/projets/portfolio.png" alt="Mon Portfolio"/>
                     <div class="card-body">
                         <h5 class="card-title">Mon portfolio</h5>
                         <p class="card-text">
@@ -141,7 +141,7 @@
                     <div class="card-header">
                         <h3 class="text-center">Projet 3 à la Wild Code School</h3>
                     </div>
-                    <img class="card-img-top" src="images/projet3.png" alt="Simulateur_Pinel"/>
+                    <img class="card-img-top" src="images/projets/projet3.png" alt="Simulateur_Pinel"/>
                     <div class="card-body">
                         <h5 class="card-title">Simulateur Pinel</h5>
                         <p class="card-text">
@@ -219,7 +219,7 @@
                     <div class="card-header">
                         <h3 class="text-center">Projet 2 à la Wild Code School</h3>
                     </div>
-                    <img class="card-img-top" src="images/projet2.gif" alt="WCS-ASLO45"/>
+                    <img class="card-img-top" src="images/projets/projet2.gif" alt="WCS-ASLO45"/>
                     <div class="card-body">
                         <h5 class="card-title">Association Sabres laser</h5>
                         <p class="card-text">
@@ -289,7 +289,7 @@
                     <div class="card-header">
                         <h3 class="text-center">Projet 1 à la Wild Code School</h3>
                     </div>
-                    <img class="card-img-top" src="images/projet1.gif" alt="WCS-Projet1_JourneeSansChaussures"/>
+                    <img class="card-img-top" src="images/projets/projet1.gif" alt="WCS-Projet1_JourneeSansChaussures"/>
                     <div class="card-body">
                         <h5 class="card-title">Journée mondiale du travail sans chaussures</h5>
                         <p class="card-text">
