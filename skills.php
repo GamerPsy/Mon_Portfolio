@@ -86,6 +86,42 @@
                 </div>
             </div>
         </div>
+        <!-------------------------------------   SECTION ALGORITHMIE  --------------------------------------------------->
+        <div class="row bg-info">
+            <div class="col-12">
+                <h3 class="border-bottom text-center pb2">Algorithmie</h3>
+            </div>
+            <!----------------- FRANCE IOI ------------------------>
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body">
+                        <a href="http://www.france-ioi.org/user/perso.php?sLogin=remy45" target="_blank">
+                            <p class="effect rounded mx-auto d-block img-fluid pt-3"><img
+                                        src="images/franceioi.png" alt="France IOI"/></p>
+                        </a>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">France IOI</h6>
+                        <p class="card-text text-success">Niv. 3</p>
+                    </div>
+                </div>
+            </div>
+            <!----------------- CODEWARS ------------------------>
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body">
+                        <a href="https://www.codewars.com/users/GamerPsy/stats" target="_blank">
+                            <p class="effect rounded mx-auto d-block img-fluid pt-4"><img
+                                        src="https://www.codewars.com/users/GamerPsy/badges/micro" alt="CodeWars"/></p>
+                        </a>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Codewars</h6>
+                        <p class="card-text text-success">6ème Kyu</p>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!-------------------------------------   SECTION FRONT  -------------------------------------------------->
         <div class="row bg-danger">
