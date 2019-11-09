@@ -13,10 +13,10 @@
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/langages/Logo_PHP.png" alt="PHP 7"/></p>
-                        <p class="card-text text-light">Niveau : confirmé</p>
                     </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        PHP 7
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">PHP 7</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
                     </div>
                 </div>
             </div>
@@ -26,10 +26,10 @@
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/frameworks/Logo_symfony.png" alt="Symfony 4"/></p>
-                        <p class="card-text text-light">Niveau : confirmé</p>
                     </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        SYMFONY
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">SYMFONY</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
                     </div>
                 </div>
             </div>
@@ -39,10 +39,10 @@
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/langages/Logo_SQL.png" alt="SQL"/></p>
-                        <p class="card-text text-light">Niveau : confirmé</p>
                     </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        SQL
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">SQL</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
                     </div>
                 </div>
             </div>
@@ -52,10 +52,10 @@
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/langages/Logo_python.png" alt="Python"/></p>
-                        <p class="card-text text-light">Niveau : débutant</p>
                     </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        Python
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Python</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
                     </div>
                 </div>
             </div>
@@ -65,10 +65,10 @@
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/langages/Logo_PERL.png" alt="PERL"/></p>
-                        <p class="card-text text-light">Niveau : débutant</p>
                     </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        PERL
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">PERL</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
                     </div>
                 </div>
             </div>
@@ -78,10 +78,10 @@
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/frameworks/Logo_JQUERY.png" alt="JQUERY"/></p>
-                        <p class="card-text text-light">Niveau : débutant</p>
                     </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        JQUERY
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">JQUERY</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
                     </div>
                 </div>
             </div>
@@ -98,10 +98,10 @@
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/langages/Logo_HTML5.png" alt="HTML 5"/></p>
-                        <p class="card-text text-light">Niveau : confirmé</p>
                     </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        HTML 5
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">HTML 5</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
                     </div>
                 </div>
             </div>
@@ -111,36 +111,10 @@
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/langages/Logo_CSS3.png" alt="CSS 3"/></p>
-                        <p class="card-text text-light">Niveau : confirmé</p>
                     </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        CSS 3
-                    </div>
-                </div>
-            </div>
-            <!----------------- JAVASCRIPT ------------------------>
-            <div class="col-6 col-sm-2 pb-2">
-                <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
-                        <p class="effect rounded mx-auto d-block img-fluid"><img
-                                    src="images/langages/Logo_JS.png" alt="Javascript"/></p>
-                        <p class="card-text text-light">Niveau : débutant</p>
-                    </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        JAVASCRIPT
-                    </div>
-                </div>
-            </div>
-            <!----------------- TWIG ------------------------>
-            <div class="col-6 col-sm-2 pb-2">
-                <div class="card text-center bg-dark h-100">
-                    <div class="card-body">
-                        <p class="effect rounded mx-auto d-block img-fluid"><img
-                                    src="images/outils/Logo_twig.png" alt="TWIG"/></p>
-                        <p class="card-text text-light">Niveau : confirmé</p>
-                    </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        TWIG
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">CSS 3</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
                     </div>
                 </div>
             </div>
@@ -150,10 +124,36 @@
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/frameworks/bootstrap-4.png" alt="Bootstrap 4"/></p>
-                        <p class="card-text text-light">Niveau : confirmé</p>
                     </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        BOOTSTRAP 4
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">BOOTSTRAP 4</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
+                    </div>
+                </div>
+            </div>
+            <!----------------- TWIG ------------------------>
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                    src="images/outils/Logo_twig.png" alt="TWIG"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">TWIG</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
+                    </div>
+                </div>
+            </div>
+            <!----------------- JAVASCRIPT ------------------------>
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                    src="images/langages/Logo_JS.png" alt="Javascript"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">JAVASCRIPT</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
                     </div>
                 </div>
             </div>
@@ -171,10 +171,10 @@
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/outils/Logo_git.png" alt="Git"/></p>
-                        <p class="card-text text-light">Niveau : confirmé</p>
                     </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        Git
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Git</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
                     </div>
                 </div>
             </div>
@@ -184,10 +184,10 @@
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/outils/Logo_github.png" alt="Github"/></p>
-                        <p class="card-text text-light">Niveau : confirmé</p>
                     </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        Github
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Github</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
                     </div>
                 </div>
             </div>
@@ -197,10 +197,10 @@
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/outils/Logo_doctrine.png" alt="Doctrine"/></p>
-                        <p class="card-text text-light">Niveau : confirmé</p>
                     </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        Doctrine
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Doctrine</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
                     </div>
                 </div>
             </div>
@@ -210,10 +210,10 @@
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/outils/Logo_Koha.png" alt="Koha"/></p>
-                        <p class="card-text text-light">Niveau : débutant</p>
                     </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        Koha
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Koha</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
                     </div>
                 </div>
             </div>
@@ -223,10 +223,10 @@
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/langages/Logo_lua.png" alt="Lua"/></p>
-                        <p class="card-text text-light">Niveau : débutant</p>
                     </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        Lua
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Lua</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
                     </div>
                 </div>
             </div>
@@ -236,10 +236,10 @@
                     <div class="card-body">
                         <p class="effect rounded mx-auto d-block img-fluid"><img
                                     src="images/frameworks/Love2D.png" alt="LOVE 2D"/></p>
-                        <p class="card-text text-light">Niveau : débutant</p>
                     </div>
-                    <div class="card-footer font-weight-bold text-white">
-                        Love 2D
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Love 2D</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
                     </div>
                 </div>
             </div>
