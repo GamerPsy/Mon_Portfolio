@@ -8,12 +8,24 @@ nav
     background-color: black;
 }
 
+ul
+{
+    list-style: none;
+    padding-left: 15px;
+}
+
 main
 {
     padding-top: 70px;
     padding-bottom: 20px;
 }
 
+.card
+{
+    background-color: #FDEBD0;
+}
+
+/* ------------------------------------ les <main> ----------------------------------------------- */
 .main-85
 {
     min-height: 85vh;
@@ -31,26 +43,34 @@ main
     padding-top: 5vh;
 }
 
-ul
-{
-    list-style: none;
-    padding-left: 15px;
-}
-
+/* ----------------------------------- partie Contact ------------------------------------- */
 #msg
 {
     height: 140px;
 }
-.card
-{
-    background-color: #FDEBD0;
-}
 
+/* ------------------------------ COULEUR DES TEXTES ---------------------------------------- */
 .text-orange
 {
     color: orange;
 }
 
+.text-netflix
+{
+    color: #e2e1df;
+}
+
+.text-gamecodeur
+{
+    color: #92361f;
+}
+
+.text-sport
+{
+    color: #e71e26;
+}
+
+/* ---------------------------- COULEURS DES BACKGROUNDS --------------------------------------- */
 .color-wcs
 {
     background-color:  #EB984E ;
@@ -76,11 +96,6 @@ ul
     background-color: #fed501;
 }
 
-.text-netflix
-{
-    color: #e2e1df;
-}
-
 .fond-gamecodeur
 {
     background-color: #e0e0e0;
@@ -88,11 +103,6 @@ ul
 .card-gamecodeur
 {
     background-color: #f1582d;
-}
-
-.text-gamecodeur
-{
-    color: #92361f;
 }
 
 .fond-card-netflix
@@ -105,11 +115,16 @@ ul
     background-color: #ECF0F1;
 }
 
-.text-sport
+.video-responsive iframe
 {
-    color: #e71e26;
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position: relative;
 }
 
+/*   --------------------------------------------- ANIMATIONS ----------------------------------------- */
 .bande-annonce
 {
     margin: 0;
@@ -154,13 +169,4 @@ ul
     {
         background-position: 500%;
     }
-}
-
-.video-responsive iframe
-{
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position: relative;
 }
