@@ -9,7 +9,7 @@
                 </button>
             </div>
         </div>
-        <!-----------------------------------LES JEUX VIDEOS ------------------------------------------------------>
+        <!-- ============================= LES JEUX VIDEOS =================================================== -->
         <div class="card bg-dark mx-auto">
             <button class="btn color-jv text-light btn-lg mx-auto d-block font-weight-bold w-50 my-3" type="button"
                     data-toggle="collapse"
@@ -21,7 +21,7 @@
         <div class="collapse" id="videoGames">
             <div class="card card-body color-jv">
                 <div class="row">
-                    <!----------------- Présentation de Gamecodeur  ------------------------------------------>
+                    <!-- ==================== Présentation de Gamecodeur ======================================= -->
                     <div class="col-12 pb-2">
                         <div class="card bg-success h-100">
                             <div class="card-body fond-gamecodeur">
@@ -40,7 +40,7 @@
                             </div>
                         </div>
                     </div>
-                    <!----------------- Gamecodeur ------------------------>
+                    <!-- ============================= Gamecodeur ====================================== -->
                     <div class="col-12 col-sm-6 pb-2">
                         <div class="card fond-gamecodeur h-100">
                             <div class="card-header">
@@ -63,7 +63,7 @@
                             </div>
                         </div>
                     </div>
-                    <!----------------- Mon coin gaming -------------------------------------------------------------->
+                    <!-- ============================= Mon coin gaming ====================================== -->
                     <div class="col-12 col-sm-6 pb-2">
                         <div class="card fond-gamecodeur h-100">
                             <div class="card-header">
@@ -88,13 +88,13 @@
                             </div>
                         </div>
                     </div>
-                    <!--- SECTION DES PROCHAINS APPRENTISSAGES SUR GAMECODEUR ------------------------------------->
+                    <!-- =============== SECTION DES PROCHAINS APPRENTISSAGES SUR GAMECODEUR =============== -->
                     <div class="col-12">
                         <button type="button" class="btn btn-secondary btn-lg btn-block mb-3" disabled>
                             <h3 class="border-bottom text-center pb2">Mes prochains apprentissages</h3>
                         </button>
                     </div>
-                    <!----------------- Casse briques -------------------------------------------------------------->
+                    <!-- ============================= Casse briques ============================================ -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card fond-gamecodeur h-100">
                             <div class="card-header">
@@ -113,7 +113,7 @@
                             </div>
                         </div>
                     </div>
-                    <!----------------- Faire voler un vaisseau -------------------------------------------------->
+                    <!-- ============================ Faire voler un vaisseau ====================================== -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card fond-gamecodeur h-100">
                             <div class="card-header">
@@ -132,7 +132,7 @@
                             </div>
                         </div>
                     </div>
-                    <!----------------- Jeux vidéos : plateformer avec dinosaures ------------------------>
+                    <!-- ============================= Jeux vidéos : plateformer avec dinosaures =============== -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card fond-gamecodeur h-100">
                             <div class="card-header">
@@ -156,7 +156,7 @@
                 </div>
             </div>
         </div>
-        <!----------------------------------- LES SERIES TV ------------------------------------------------------->
+        <!-- ======================================= LES SERIES TV =============================================== -->
         <div class="card bg-dark mx-auto pt-2 mt-3">
             <button class="btn color-netflix btn-lg mx-auto d-block w-50 mb-3" type="button" data-toggle="collapse"
                     data-target="#seriesTv"
@@ -167,7 +167,7 @@
         <div class="collapse" id="seriesTv">
             <div class="card card-body fond-card-netflix">
                 <div class="row">
-                    <!----------------- Netflix et moi  ----------------------------------------------------------->
+                    <!-- =================== Netflix et moi ============================================== -->
                     <div class="col-12 pb-2">
                         <div class="card fond-card-netflix h-100">
                             <div class="card-body">
@@ -179,7 +179,7 @@
                             </div>
                         </div>
                     </div>
-                    <!----------------- My Favorite  ------------------------------------------------------------------>
+                    <!-- ============================= My Favorite============================================= -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card card-serie h-100">
                             <div class="card-header">
@@ -192,7 +192,7 @@
                                 <i class="fas fa-clock mr-2"></i> encore disponible
                             </div>
                         </div>
-                    </div><!----------------- Actuellement ---------------------------------------------------->
+                    </div><!-- ======================= Actuellement  ================================================ -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card card-serie h-100">
                             <div class="card-header">
@@ -206,7 +206,7 @@
                             </div>
                         </div>
                     </div>
-                    <!----------------- J'attends avec impatience ------------------------>
+                    <!-- ============================= J'attends avec impatience =============================== -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card card-serie h-100">
                             <div class="card-header">
@@ -223,7 +223,7 @@
                 </div>
             </div>
         </div>
-        <!-----------------------------------LE RUNNING ----------------------------------------------------------->
+        <!-- =======================================LE RUNNING ================================================== -->
         <div class="card bg-dark mx-auto pt-2 mt-3">
             <button class="btn fond-sport btn-lg mx-auto d-block w-50 mb-3" type="button" data-toggle="collapse"
                     data-target="#running"
@@ -234,7 +234,7 @@
         <div class="collapse" id="running">
             <div class="card card-body fond-sport">
                 <div class="row">
-                    <!----------------- Présentation du comment je gère  ------------------------------------------>
+                    <!-- ==================== Présentation du comment je gère  ================================= -->
                     <div class="col-12 pb-2">
                         <div class="card bg-success h-100">
                             <div class="card-body fond-card-netflix">
@@ -247,7 +247,7 @@
                             </div>
                         </div>
                     </div>
-                    <!----------------- Zombie Run Night 2018 ----------------------------------------------------->
+                    <!-- ============================= Zombie Run Night 2018 ============================== -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card fond-card-netflix h-100">
                             <div class="card-header">
@@ -260,7 +260,7 @@
                             </div>
                         </div>
                     </div>
-                    <!----------------- Pith'Race 2018 ------------------------------------------------------------>
+                    <!-- ============================= Pith'Race 2018 ============================================== -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card fond-card-netflix h-100">
                             <div class="card-header">
@@ -273,7 +273,7 @@
                                 <i class="fas fa-clock mr-2"></i> 14 octobre 2018
                             </div>
                         </div>
-                    </div><!----------------- Prochaine courses ----------------------------------------------->
+                    </div><!-- ======================= Prochaine courses  ================================== -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card fond-card-netflix h-100">
                             <div class="card-header">
@@ -290,7 +290,7 @@
                 </div>
             </div>
         </div>
-        <!----------------------------------- LA RANDONNEE -------------------------------------------------------->
+        <!-- ======================================= LA RANDONNEE  =========================================-->
         <div class="card bg-dark mx-auto pt-2 mt-3">
             <button class="btn color-compostelle btn-lg mx-auto d-block text-warning font-weight-bold w-50 mb-3"
                     type="button" data-toggle="collapse"
@@ -302,7 +302,7 @@
         <div class="collapse" id="randonnee">
             <div class="card card-body color-compostelle">
                 <div class="row">
-                    <!----------------- 1er Chemin - 2019 ---------------------------------------------------------->
+                    <!-- ============================= 1er Chemin - 2019 =================================== -->
                     <div class="col-12 col-sm-6 pb-2">
                         <div class="card bg-primary h-100">
                             <div class="card-header">
@@ -321,7 +321,7 @@
                             </div>
                         </div>
                     </div>
-                    <!----------------- Compostelle 45 ------------------------------------------------------------>
+                    <!-- ============================= Compostelle 45 ======================================= -->
                     <div class="col-12 col-sm-6 pb-2">
                         <div class="card bg-primary h-100">
                             <div class="card-header">
@@ -339,7 +339,7 @@
                             </div>
                         </div>
                     </div>
-                    <!----------------- Santiago 2019 ------------------------>
+                    <!-- ============================= Santiago 2019 ======================== -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card bg-primary h-100">
                             <img class="card-img-top" src="images/randonnee/santiago2019.jpg" alt="Santiago 2019"/>
@@ -348,7 +348,7 @@
                             </div>
                         </div>
                     </div>
-                    <!----------------- Fisterra 2019 ------------------------>
+                    <!-- ============================= Fisterra 2019 ================================ -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card bg-primary h-100">
                             <img class="card-img-top" src="images/randonnee/fisterra2019.jpg" alt="Fisterra 2019"/>
@@ -357,7 +357,7 @@
                             </div>
                         </div>
                     </div>
-                    <!----------------- Fisterra Night 2019 ------------------------>
+                    <!-- ============================= Fisterra Night 2019 ======================== -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card bg-primary h-100">
                             <img class="card-img-top" src="images/randonnee/fisterraNight2019.jpg" alt="Fisterra Night 2019"/>

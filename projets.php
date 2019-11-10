@@ -2,15 +2,15 @@
 
 <main class="bg-dark">
     <div class="container">
-        <!-------------------------------------   SECTION DU FUTUR  -------------------------------------------------->
+        <!-- ============ SECTION DU FUTUR =================================================================== -->
         <div class="row">
             <div class="col-12">
-                <button type="button" class="btn btn-secondary btn-lg btn-block mb-3" disabled>
+                <button type="button" class="btn btn-secondary btn-lg btn-block mb-1" disabled>
                     <h3 class="border-bottom text-center pb2">Projets à venir !</h3>
                 </button>
             </div>
-            <!----------------- Apprentissage : JAVA JEE ------------------------>
-            <div class="col-12 col-sm-4 pb-2">
+            <!-- ============================= Apprentissage : JAVA JEE ===================================== -->
+            <div class="col-12 col-sm-4 pb-4">
                 <div class="card bg-success h-100">
                     <div class="card-header">
                         <h3 class="text-center">Java</h3>
@@ -37,8 +37,8 @@
                     </div>
                 </div>
             </div>
-            <!----------------- Apprentissage : Docker ------------------------>
-            <div class="col-12 col-sm-4 pb-2">
+            <!-- ============================= Apprentissage : Docker ======================================== -->
+            <div class="col-12 col-sm-4 pb-4">
                 <div class="card bg-success h-100">
                     <div class="card-header">
                         <h3 class="text-center">Docker</h3>
@@ -65,8 +65,8 @@
                     </div>
                 </div>
             </div>
-            <!----------------- Jeux vidéos : plateformer avec dinosaures ------------------------>
-            <div class="col-12 col-sm-4 pb-2">
+            <!-- ============================= Jeux vidéos : plateformer avec dinosaures ======================== -->
+            <div class="col-12 col-sm-4 pb-4">
                 <div class="card bg-success h-100">
                     <div class="card-header">
                         <h3 class="text-center">Dino Jungle</h3>
@@ -93,19 +93,18 @@
                     </div>
                 </div>
             </div>
-
-
         </div>
-        <!-------------------------------------   SECTION 2019  -------------------------------------------------->
+
+        <!-- ============ SECTION 2019 ================================================================== -->
         <div class="row">
             <div class="col-12">
-                <button type="button" class="btn btn-secondary btn-lg btn-block mb-3" disabled>
+                <button type="button" class="btn btn-secondary btn-lg btn-block mb-1" disabled>
                     <h3 class="border-bottom text-center pb2"> Projets de l'année 2019</h3>
                 </button>
             </div>
 
-            <!----------------- Mon portfolio ------------------------>
-            <div class="col-12 col-sm-6 pb-2">
+            <!-- ============================= Mon portfolio ========================================== -->
+            <div class="col-12 col-sm-6 pb-4">
                 <div class="card bg-success h-100">
                     <div class="card-header">
                         <h3 class="text-center">Projet perso : mon portfolio</h3>
@@ -135,8 +134,8 @@
                     </div>
                 </div>
             </div>
-            <!----------------- WCS Projet 3 - Application pour client ------------------------>
-            <div class="col-12 col-sm-6 pb-2">
+            <!-- ============================= WCS Projet 3 - Application pour client ========================== -->
+            <div class="col-12 col-sm-6 pb-4">
                 <div class="card color-wcs h-100">
                     <div class="card-header">
                         <h3 class="text-center">Projet 3 à la Wild Code School</h3>
@@ -168,9 +167,9 @@
                     </div>
                 </div>
             </div>
-            <!----------------- Hackathon 2 - Reporting Lab'O ------------------------>
+            <!-- ============================= Hackathon 2 - Reporting Lab'O ================================= -->
             <!--
-            <div class="col-12 col-sm-6 pb-2">
+            <div class="col-12 col-sm-6 pb-4">
                 <div class="card bg-danger h-100">
                     <div class="card-header">
                         <h3 class="text-center">Hackathon : Reporting Lab'O</h3>
@@ -202,19 +201,18 @@
                 </div>
             </div>
             -->
-
         </div>
 
-        <!-------------------------------------   SECTION 2018  -------------------------------------------------->
+        <!-- ============ SECTION 2018 =================================================================== -->
         <div class="row">
             <div class="col-12">
-                <button type="button" class="btn btn-secondary btn-lg btn-block mb-3" disabled>
+                <button type="button" class="btn btn-secondary btn-lg btn-block mb-1" disabled>
                     <h3 class="border-bottom text-center pb2">Projets de l'année 2018</h3>
                 </button>
             </div>
 
-            <!----------------- WCS Projet 2 - Site dynamique ------------------------>
-            <div class="col-12 col-sm-6 pb-2">
+            <!-- ============================= WCS Projet 2 - Site dynamique ============================== -->
+            <div class="col-12 col-sm-6 pb-3">
                 <div class="card color-wcs h-100">
                     <div class="card-header">
                         <h3 class="text-center">Projet 2 à la Wild Code School</h3>
@@ -247,9 +245,9 @@
                     </div>
                 </div>
             </div>
-            <!----------------- Hackathon 1 - Bonbondex ------------------------>
+            <!-- ============================= Hackathon 1 - Bonbondex ==================================== -->
             <!--
-            <div class="col-12 col-sm-6 pb-2">
+            <div class="col-12 col-sm-6 pb-3">
                 <div class="card bg-danger h-100">
                     <div class="card-header">
                         <h3 class="text-center">Hackathon : Bonbondex</h3>
@@ -283,8 +281,8 @@
                 </div>
             </div>
             -->
-            <!----------------- WCS Projet 1 - Intégration ------------------------>
-            <div class="col-12 col-sm-6 pb-2">
+            <!-- ============================= WCS Projet 1 - Intégration ==================================== -->
+            <div class="col-12 col-sm-6 pb-3">
                 <div class="card color-wcs h-100">
                     <div class="card-header">
                         <h3 class="text-center">Projet 1 à la Wild Code School</h3>

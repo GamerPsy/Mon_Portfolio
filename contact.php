@@ -7,8 +7,8 @@
             <div class="col-12 h-100">
                 <div class="card h-100">
                     <h2 class="mx-auto">Formulaire de contact</h2>
-                    <div class="card-body">
-                        <form method="post" action="contact.php">
+                    <form method="post" action="contact.php">
+                        <div class="card-body">
                             <div class="row mx-auto">
                                 <div class="col-12">
                                     <label for="nom">Nom et Prénom :</label>
@@ -32,16 +32,15 @@
                                 <div class="col-12">
                                     <label for="msg">Votre message :</label>
                                 </div>
-                                <textarea id="msg" class="col-12" name="user_message"
-                                          placeholder="Exprimez vous !"
-                                          required/></textarea>
+                                <textarea id="msg" class="col-12" name="user_message" placeholder="Exprimez vous !"
+                                          required></textarea>
                             </div>
-                    </div>
-                    <div class="card-footer">
-                        <button class="btn color-compostelle text-warning font-weight-bold mx-auto d-block w-50"
-                                type="submit">Envoyer votre message à Rémy !
-                        </button>
-                    </div>
+                        </div>
+                        <div class="card-footer">
+                            <button class="btn color-compostelle text-warning font-weight-bold mx-auto d-block w-50"
+                                    type="submit">Envoyer votre message à Rémy !
+                            </button>
+                        </div>
                     </form>
                 </div>
             </div>
