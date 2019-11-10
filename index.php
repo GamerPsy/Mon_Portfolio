@@ -4,39 +4,40 @@
 <main class="bg-dark main-85">
     <div class="container mt-auto">
         <div class="row">
-            <!-------------------------Infos Rémy --------------------------------------------------------------------->
+            <!-- ==================== Infos Rémy ============================================================= -->
             <div class="col-12 col-sm-4 offset-sm-2">
                 <div class="card w-100 h-100">
                     <h4 class="font-weight-bold mx-auto">Fiche du développeur</h4>
                     <div class="card-body">
                         <ul>
                             <li><span class="font-weight-bold">Nom :</span> DUCRY Rémy</li>
-                            <li><span class="font-weight-bold">Age :</span> <?= $ageOfRemy?> ans</li>
+                            <li><span class="font-weight-bold">Age :</span> <?= $ageOfRemy ?> ans</li>
                             <li><span class="font-weight-bold">Langage :</span> PHP</li>
                             <li><span class="font-weight-bold">Localisation :</span> Orléans</li>
                             <li><span class="font-weight-bold">Mobilité :</span> transports en commun.</li>
                             <li><span class="font-weight-bold">En recherche d'emploi:</span> OUI</li>
-                            <li class="font-weight-bold">Le contacter : <a href="contact.php"> >>>Par ici !<<< </a></li>
+                            <li class="font-weight-bold">Le contacter : <a href="contact.php"> > Par ici ! < </a></li>
                         </ul>
                     </div>
                     <div class="card-footer h-100 w-100">
-                        <a class="btn color-compostelle mx-auto d-block w-100 h-100 pt-3" type="button" target="_blank"
-                           href="/documents/Remy_DUCRY_Developpeur_Web_Junior.pdf">
-                            <span class="font-weight-bold text-warning">Télécharger le CV !</span>
+                        <a href="/documents/Remy_DUCRY_Developpeur_Web_Junior.pdf" target="_blank">
+                            <div class="btn color-compostelle mx-auto d-block w-100 h-100 pt-3">
+                                <span class="font-weight-bold text-warning">Télécharger le CV !</span>
+                            </div>
                         </a>
                     </div>
                 </div>
             </div>
-            <!--------------------------Photo Rémy -------------------------------------------------------------------->
+            <!-- ======================== Photo Rémy ================================================ -->
             <div class="col-12 col-sm-4">
                 <div class="thumbnail">
                     <img class="effect rounded mx-auto d-block img-fluid img-thumbnail w-100 h-100"
-                         src="images/moi.jpg" alt="Rémy himself !"></a>
+                         src="images/moi.jpg" alt="Rémy himself !">
                 </div>
             </div>
         </div>
         <div class="row pt-3">
-            <!--------------------------Présentation succinte --------------------------------------------------------->
+            <!-- ============================ Présentation succinte =========================================== -->
             <div class="card col-12 justify-content-center">
                 <div class="card-body mx-auto">
                     Je suis actuellement à la recherche d'un poste de développeur web junior,
@@ -56,7 +57,7 @@
                     <div class="card-footer mx-auto pt-4">
                         <button class="btn btn-dark mx-auto d-block w-25" type="button" data-toggle="collapse"
                                 data-target="#versiondetail"
-                                aria-expanded="false" aria-controls="version détaillée">
+                                aria-expanded="false" aria-controls="versiondetail">
                             Version plus détaillée !
                         </button>
                     </div>
@@ -105,6 +106,7 @@
                 </div>
             </div>
         </div>
+    </div>
 </main>
 
 <?php include "include/footer.php" ?>
