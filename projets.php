@@ -2,14 +2,14 @@
 
 <main class="bg-dark">
     <div class="container">
-        <!-------------------------------------   SECTION DU FUTUR  -------------------------------------------------->
+        <!-- ============ SECTION DU FUTUR =================================================================== -->
         <div class="row">
             <div class="col-12">
                 <button type="button" class="btn btn-secondary btn-lg btn-block mb-1" disabled>
                     <h3 class="border-bottom text-center pb2">Projets à venir !</h3>
                 </button>
             </div>
-            <!----------------- Apprentissage : JAVA JEE ------------------------>
+            <!-- ============================= Apprentissage : JAVA JEE ===================================== -->
             <div class="col-12 col-sm-4 pb-4">
                 <div class="card bg-success h-100">
                     <div class="card-header">
@@ -37,7 +37,7 @@
                     </div>
                 </div>
             </div>
-            <!----------------- Apprentissage : Docker ------------------------>
+            <!-- ============================= Apprentissage : Docker ======================================== -->
             <div class="col-12 col-sm-4 pb-4">
                 <div class="card bg-success h-100">
                     <div class="card-header">
@@ -65,7 +65,7 @@
                     </div>
                 </div>
             </div>
-            <!----------------- Jeux vidéos : plateformer avec dinosaures ------------------------>
+            <!-- ============================= Jeux vidéos : plateformer avec dinosaures ======================== -->
             <div class="col-12 col-sm-4 pb-4">
                 <div class="card bg-success h-100">
                     <div class="card-header">
@@ -93,10 +93,9 @@
                     </div>
                 </div>
             </div>
-
-
         </div>
-        <!-------------------------------------   SECTION 2019  -------------------------------------------------->
+
+        <!-- ============ SECTION 2019 ================================================================== -->
         <div class="row">
             <div class="col-12">
                 <button type="button" class="btn btn-secondary btn-lg btn-block mb-1" disabled>
@@ -104,7 +103,7 @@
                 </button>
             </div>
 
-            <!----------------- Mon portfolio ------------------------>
+            <!-- ============================= Mon portfolio ========================================== -->
             <div class="col-12 col-sm-6 pb-4">
                 <div class="card bg-success h-100">
                     <div class="card-header">
@@ -135,7 +134,7 @@
                     </div>
                 </div>
             </div>
-            <!----------------- WCS Projet 3 - Application pour client ------------------------>
+            <!-- ============================= WCS Projet 3 - Application pour client ========================== -->
             <div class="col-12 col-sm-6 pb-4">
                 <div class="card color-wcs h-100">
                     <div class="card-header">
@@ -168,7 +167,7 @@
                     </div>
                 </div>
             </div>
-            <!----------------- Hackathon 2 - Reporting Lab'O ------------------------>
+            <!-- ============================= Hackathon 2 - Reporting Lab'O ================================= -->
             <!--
             <div class="col-12 col-sm-6 pb-4">
                 <div class="card bg-danger h-100">
@@ -202,10 +201,9 @@
                 </div>
             </div>
             -->
-
         </div>
 
-        <!-------------------------------------   SECTION 2018  -------------------------------------------------->
+        <!-- ============ SECTION 2018 =================================================================== -->
         <div class="row">
             <div class="col-12">
                 <button type="button" class="btn btn-secondary btn-lg btn-block mb-1" disabled>
@@ -213,7 +211,7 @@
                 </button>
             </div>
 
-            <!----------------- WCS Projet 2 - Site dynamique ------------------------>
+            <!-- ============================= WCS Projet 2 - Site dynamique ============================== -->
             <div class="col-12 col-sm-6 pb-3">
                 <div class="card color-wcs h-100">
                     <div class="card-header">
@@ -247,7 +245,7 @@
                     </div>
                 </div>
             </div>
-            <!----------------- Hackathon 1 - Bonbondex ------------------------>
+            <!-- ============================= Hackathon 1 - Bonbondex ==================================== -->
             <!--
             <div class="col-12 col-sm-6 pb-3">
                 <div class="card bg-danger h-100">
@@ -283,7 +281,7 @@
                 </div>
             </div>
             -->
-            <!----------------- WCS Projet 1 - Intégration ------------------------>
+            <!-- ============================= WCS Projet 1 - Intégration ==================================== -->
             <div class="col-12 col-sm-6 pb-3">
                 <div class="card color-wcs h-100">
                     <div class="card-header">

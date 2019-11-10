@@ -16,7 +16,7 @@
                             <li><span class="font-weight-bold">Localisation :</span> Orléans</li>
                             <li><span class="font-weight-bold">Mobilité :</span> transports en commun.</li>
                             <li><span class="font-weight-bold">En recherche d'emploi:</span> OUI</li>
-                            <li class="font-weight-bold">Le contacter : <a href="contact.php"> > Par ici ! < </a></li>
+                            <li class="font-weight-bold">Le contacter : <a href="contact.php"> &gt;&gt;&gt; Par ici ! &lt;&lt;&lt; </a></li>
                         </ul>
                     </div>
                     <div class="card-footer h-100 w-100">
