@@ -22,12 +22,12 @@
                             branches sur Github pour la correction des quêtes.
                         </p>
                         <p class="card-skills">
-                            <span class="badge badge-info">Apprentissage</span>
-                            <span class="badge badge-info">Développeur</span>
+                            <span class="badge badge-dark">Apprentissage</span>
+                            <span class="badge badge-dark">Développeur</span>
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-secondary"
+                        <a role="button" class="btn btn-dark"
                            href=""
                            title="Ma progression en Java" target="_blank">
                             <i class="fab fa-github"></i>
@@ -50,12 +50,12 @@
                             apprentissage qui me parait logique pour moi.
                         </p>
                         <p class="card-skills">
-                            <span class="badge badge-info">Apprentissage</span>
-                            <span class="badge badge-info">DevOps</span>
+                            <span class="badge badge-dark">Apprentissage</span>
+                            <span class="badge badge-dark">DevOps</span>
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-secondary"
+                        <a role="button" class="btn btn-dark"
                            href=""
                            title="Docker" target="_blank">
                             <i class="fab fa-github"></i>
@@ -78,12 +78,12 @@
                             les ennemis.
                         </p>
                         <p class="card-skills">
-                            <span class="badge badge-info">Lua</span>
-                            <span class="badge badge-info">Love 2D</span>
+                            <span class="badge badge-dark">Lua</span>
+                            <span class="badge badge-dark">Love 2D</span>
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-secondary"
+                        <a role="button" class="btn btn-dark"
                            href=""
                            title="Dino Jungle" target="_blank">
                             <i class="fab fa-github"></i>
@@ -117,14 +117,14 @@
                             d'utiliser mes compétences pour mon propre compte ^^
                         </p>
                         <p class="card-skills">
-                            <span class="badge badge-info">PHP 7</span>
-                            <span class="badge badge-info">HTML 5</span>
-                            <span class="badge badge-info">CSS 3</span>
-                            <span class="badge badge-info">Bootstrap 4</span>
+                            <span class="badge badge-dark">PHP 7</span>
+                            <span class="badge badge-dark">HTML 5</span>
+                            <span class="badge badge-dark">CSS 3</span>
+                            <span class="badge badge-dark">Bootstrap 4</span>
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-secondary"
+                        <a role="button" class="btn btn-dark"
                            href="https://github.com/GamerPsy/Mon_Portfolio"
                            title="Mon portfolio" target="_blank">
                             <i class="fab fa-github"></i>
@@ -148,14 +148,14 @@
                             immobiliser pour un simulateur loi Pinel.
                         </p>
                         <p class="card-skills">
-                            <span class="badge badge-info">Symfony 4</span>
-                            <span class="badge badge-info">PHP 7</span>
-                            <span class="badge badge-info">Doctrine</span>
-                            <span class="badge badge-info">Twig</span>
+                            <span class="badge badge-dark">Symfony 4</span>
+                            <span class="badge badge-dark">PHP 7</span>
+                            <span class="badge badge-dark">Doctrine</span>
+                            <span class="badge badge-dark">Twig</span>
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-secondary"
+                        <a role="button" class="btn btn-dark"
                            href="https://github.com/GamerPsy/WCS_Projet3_SimulateurLoiPinel"
                            title="Simulateur_Pinel" target="_blank">
                             <i class="fab fa-github"></i>
@@ -182,13 +182,13 @@
                             besoin de chiffrer son activité dans un soucis de reporting et de processus qualité.
                         </p>
                         <p class="card-skills">
-                            <span class="badge badge-info">Bootstrap 4</span>
-                            <span class="badge badge-info">Symfony</span>
-                            <span class="badge badge-info">PHP 7</span>
+                            <span class="badge badge-dark">Bootstrap 4</span>
+                            <span class="badge badge-dark">Symfony</span>
+                            <span class="badge badge-dark">PHP 7</span>
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-secondary"
+                        <a role="button" class="btn btn-dark"
                            href="https://github.com/GamerPsy/WCS_Hackathon_2"
                            title="Reporting_Labo" target="_blank">
                             <i class="fab fa-github"></i>
@@ -224,16 +224,16 @@
                             Refonte du site de l'Académie de Sabre Laser Orléanaise.
                         </p>
                         <p class="card-skills">
-                            <span class="badge badge-info">HTML 5</span>
-                            <span class="badge badge-info">CSS 3</span>
-                            <span class="badge badge-info">Bootstrap 4</span>
-                            <span class="badge badge-info">PHP 7</span>
-                            <span class="badge badge-info">SQL</span>
-                            <span class="badge badge-info">MVC</span>
+                            <span class="badge badge-dark">HTML 5</span>
+                            <span class="badge badge-dark">CSS 3</span>
+                            <span class="badge badge-dark">Bootstrap 4</span>
+                            <span class="badge badge-dark">PHP 7</span>
+                            <span class="badge badge-dark">SQL</span>
+                            <span class="badge badge-dark">MVC</span>
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-secondary"
+                        <a role="button" class="btn btn-dark"
                            href="https://github.com/GamerPsy/WCS_Projet2_ASLO45"
                            title="WCS-ASLO45" target="_blank">
                             <i class="fab fa-github"></i>
@@ -261,14 +261,14 @@
                             Utilisation d'une API.
                         </p>
                         <p class="card-skills">
-                            <span class="badge badge-info">HTML 5</span>
-                            <span class="badge badge-info">CSS 3</span>
-                            <span class="badge badge-info">Bootstrap 4</span>
-                            <span class="badge badge-info">PHP 7</span>
+                            <span class="badge badge-dark">HTML 5</span>
+                            <span class="badge badge-dark">CSS 3</span>
+                            <span class="badge badge-dark">Bootstrap 4</span>
+                            <span class="badge badge-dark">PHP 7</span>
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-secondary"
+                        <a role="button" class="btn btn-dark"
                            href="https://github.com/GamerPsy/WCS_Hackathon_1"
                            title="Bonbondex" target="_blank">
                             <i class="fab fa-github"></i>
@@ -294,13 +294,13 @@
                             Conception et réalisation d'un site web pour une association.
                         </p>
                         <p class="card-skills">
-                            <span class="badge badge-info">HTML 5</span>
-                            <span class="badge badge-info">CSS 3</span>
-                            <span class="badge badge-info">Bootstrap 4</span>
+                            <span class="badge badge-dark">HTML 5</span>
+                            <span class="badge badge-dark">CSS 3</span>
+                            <span class="badge badge-dark">Bootstrap 4</span>
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-secondary"
+                        <a role="button" class="btn btn-dark"
                            href="https://github.com/GamerPsy/WCS_Projet1_JourneeSansChaussures"
                            title="WCS-Projet1_JourneeSansChaussures" target="_blank">
                             <i class="fab fa-github"></i>
