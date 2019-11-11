@@ -125,7 +125,7 @@
                     </div>
                     <div class="card-footer">
                         <a role="button" class="btn btn-dark"
-                           href="https://github.com/GamerPsy/Mon_Portfolio"
+                           href="https://github.com/GamerPsy/Mon_Portfolio/tree/master"
                            title="Mon portfolio" target="_blank">
                             <i class="fab fa-github"></i>
                         </a>

@@ -55,7 +55,7 @@
                     aspect du développement informatique.
                     <br/>
                     <div class="card-footer mx-auto pt-4">
-                        <button class="btn btn-dark mx-auto d-block w-25" type="button" data-toggle="collapse"
+                        <button class="btn btn-dark mx-auto d-block" type="button" data-toggle="collapse"
                                 data-target="#versiondetail"
                                 aria-expanded="false" aria-controls="versiondetail">
                             Version plus détaillée !

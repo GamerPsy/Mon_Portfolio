@@ -78,7 +78,6 @@
                         </li>
                         <li>48h -> coder en équipe de 5 une application pour la COP du Lab'O d'Orléans</li>
                     </ul>
-
             </div>
         </div>
         <div class="row bg-info mt-2 pt-2">
