@@ -89,11 +89,11 @@
                         </div>
                     </div>
                     <!-- =============== SECTION DES PROCHAINS APPRENTISSAGES SUR GAMECODEUR =============== -->
-                    <div class="col-12">
-                        <button type="button" class="btn btn-secondary btn-lg btn-block mb-3" disabled>
-                            <h3 class="border-bottom text-center pb2">Mes prochains apprentissages</h3>
-                        </button>
-                    </div>
+                        <div class="col-12">
+                            <card class="btn-secondary btn-lg btn-block mb-3">
+                                <h3 class="border-bottom text-center pb2">Mes prochains apprentissages</h3>
+                            </card>
+                        </div>
                     <!-- ============================= Casse briques ============================================ -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card fond-gamecodeur h-100">
@@ -192,13 +192,15 @@
                                 <i class="fas fa-clock mr-2"></i> encore disponible
                             </div>
                         </div>
-                    </div><!-- ======================= Actuellement  ================================================ -->
+                    </div>
+                    <!-- ======================= Actuellement  ================================================ -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card card-serie h-100">
                             <div class="card-header">
                                 <h3 class="text-center text-sport">Actuellement</h3>
                             </div>
-                            <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/netflix/better-than-us.jpg"
+                            <img class="card-img-top mx-auto img-fluid w-100 h-75"
+                                 src="images/netflix/better-than-us.jpg"
                                  alt="Better Than Us"/>
                             <div class="card-footer">
                                 <h5>Better than us</h5>
@@ -253,7 +255,8 @@
                             <div class="card-header">
                                 <h4 class="text-center text-warning">Zombie Run Night 2018</h4>
                             </div>
-                            <img class="card-img-top mx-auto img-fluid w-100 h-100" src="images/running/zombieRunNight2018.jpg"
+                            <img class="card-img-top mx-auto img-fluid w-100 h-100"
+                                 src="images/running/zombieRunNight2018.jpg"
                                  alt="Zombie Run Night 2018"/>
                             <div class="card-footer">
                                 <i class="fas fa-clock mr-2"></i> été 2019
@@ -308,7 +311,8 @@
                             <div class="card-header">
                                 <h3 class="text-center text-warning">1er chemin</h3>
                             </div>
-                                <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/randonnee/arriveesantiago2019.jpg" alt="Compostelle 2019"/>
+                            <img class="card-img-top mx-auto img-fluid w-100 h-75"
+                                 src="images/randonnee/arriveesantiago2019.jpg" alt="Compostelle 2019"/>
                             <div class="card-body">
                                 <h5 class="card-title">Bordeaux > Santiago > Fisterra</h5>
                                 <p class="card-text">
@@ -327,7 +331,8 @@
                             <div class="card-header">
                                 <h3 class="text-center text-warning">Compostelle 45</h3>
                             </div>
-                            <img class="card-img-top mx-auto img-fluid w-100 h-50" src="images/randonnee/compostelle45.png" alt="Compostelle 45"/>
+                            <img class="card-img-top mx-auto img-fluid w-100 h-50"
+                                 src="images/randonnee/compostelle45.png" alt="Compostelle 45"/>
                             <div class="card-body">
                                 <h5 class="card-title">Adhérent depuis juillet 2019</h5>
                                 <p class="card-text">
@@ -360,7 +365,8 @@
                     <!-- ============================= Fisterra Night 2019 ======================== -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card bg-primary h-100">
-                            <img class="card-img-top" src="images/randonnee/fisterraNight2019.jpg" alt="Fisterra Night 2019"/>
+                            <img class="card-img-top" src="images/randonnee/fisterraNight2019.jpg"
+                                 alt="Fisterra Night 2019"/>
                             <div class="card-footer">
                                 <i class="fas fa-clock text-warning mr-2"></i> 22 août 2019
                             </div>
