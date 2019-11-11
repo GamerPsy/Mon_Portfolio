@@ -10,20 +10,19 @@
             </div>
         </div>
 
-        <div class="row">
+        <div class="row bg-info mt-2 pt-2">
             <!-- ======================= 2019 ====================================================================== -->
-            <div class="row bg-info pt-2 ">
                 <div class="col-2">
                     2019
                 </div>
-                <div class="col-10">
+                <div class="col-12 col-sm-10">
                     <!-- ==================== OPENCLASSROOMS ======================================================= -->
                     <div class="row bg-info">
                         <!-- =========================== Découvrez l'univers de la cybersécurité =================== -->
                         <div class="col pb-2">
                             <div class="row h-100 w-100">
                                 <div class="col-1 h-100">
-                                    <img class="openclassrooms" src="images/openclassrooms.png"
+                                    <img class="openclassrooms d-none d-lg-block mx-auto" src="images/openclassrooms.png"
                                          alt="Openclassrooms"/>
                                 </div>
                                 <div class="col-11 h-100 bg-secondary pt-1">
@@ -37,7 +36,7 @@
                         <div class="col-12 pb-2">
                             <div class="row h-100 w-100">
                                 <div class="col-1 h-100">
-                                    <img class="openclassrooms" src="images/openclassrooms.png"
+                                    <img class="openclassrooms d-none d-lg-block mx-auto" src="images/openclassrooms.png"
                                          alt="Openclassrooms"/>
                                 </div>
                                 <div class="col-11 h-100 bg-secondary pt-1">
@@ -47,8 +46,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <!--  ============= 2018-2019 ====================================================================== -->
+            </div>
+        </div>
+        <div class="row bg-info mt-2">
+            <!--  ============= 2018-2019 ====================================================================== -->
                 <div class="col-2">
                     <h5>2018 - 2019</h5>
                 </div>
@@ -77,21 +78,22 @@
                         </li>
                         <li>48h -> coder en équipe de 5 une application pour la COP du Lab'O d'Orléans</li>
                     </ul>
-                </div>
+
             </div>
+        </div>
+        <div class="row bg-info mt-2 pt-2">
             <!-- ======================= 2018 ====================================================================== -->
-            <div class="row bg-info mt-2 pt-2">
                 <div class="col-2">
                     2018
                 </div>
-                <div class="col-10">
+                <div class="col-12 col-sm-10">
                     <!-- ==================== OPENCLASSROOMS ======================================================= -->
                     <div class="row bg-info">
                         <!-- =========================== Gérez votre code avec Git et Github ======================= -->
                         <div class="col-12 pb-2">
                             <div class="row h-100 w-100">
                                 <div class="col-1 h-100">
-                                    <img class="openclassrooms" src="images/openclassrooms.png"
+                                    <img class="openclassrooms d-none d-lg-block mx-auto" src="images/openclassrooms.png"
                                          alt="Openclassrooms"/>
                                 </div>
                                 <div class="col-11 h-100 bg-secondary pt-1">
@@ -105,7 +107,7 @@
                         <div class="col-12 pb-2">
                             <div class="row h-100 w-100">
                                 <div class="col-1 h-100">
-                                    <img class="openclassrooms" src="images/openclassrooms.png"
+                                    <img class="openclassrooms d-none d-lg-block mx-auto" src="images/openclassrooms.png"
                                          alt="Openclassrooms"/>
                                 </div>
                                 <div class="col-11 h-100 bg-secondary pt-1">
@@ -118,7 +120,7 @@
                         <div class="col-12 pb-2">
                             <div class="row h-100 w-100">
                                 <div class="col-1 h-100">
-                                    <img class="openclassrooms" src="images/openclassrooms.png"
+                                    <img class="openclassrooms d-none d-lg-block mx-auto" src="images/openclassrooms.png"
                                          alt="Openclassrooms"/>
                                 </div>
                                 <div class="col-11 h-100 bg-secondary pt-1">
@@ -132,7 +134,7 @@
                         <div class="col-12 pb-2">
                             <div class="row h-100 w-100">
                                 <div class="col-1 h-100">
-                                    <img class="openclassrooms" src="images/openclassrooms.png"
+                                    <img class="openclassrooms d-none d-lg-block mx-auto" src="images/openclassrooms.png"
                                          alt="Openclassrooms"/>
                                 </div>
                                 <div class="col-11 h-100 bg-secondary pt-1">
@@ -145,7 +147,7 @@
                         <div class="col-12 pb-2">
                             <div class="row h-100 w-100">
                                 <div class="col-1 h-100">
-                                    <img class="openclassrooms" src="images/openclassrooms.png"
+                                    <img class="openclassrooms d-none d-lg-block mx-auto" src="images/openclassrooms.png"
                                          alt="Openclassrooms"/>
                                 </div>
                                 <div class="col-11 h-100 bg-secondary pt-1">
@@ -156,30 +158,24 @@
                             </div>
                         </div>
                     </div>
-                </div>
             </div>
         </div>
         <div class="row bg-warning mt-2">
             <!-- ======================= 2014-2016 ================================================================= -->
-            <div class="row bg-warning w-100 h-100">
                 <div class="col-2">
                     2014 - 2016
                 </div>
                 <div class="col-10">
                     DEUG de Psychologie - IED Paris 8
                 </div>
-            </div>
             <!-- ======================= 2003 ====================================================================== -->
-            <div class="row bg-warning w-100">
                 <div class="col-2">
                     2003
                 </div>
                 <div class="col-10">
                     DE d'Aide-Soignant - IFSI Croix-Rouge, Marseille
                 </div>
-            </div>
             <!-- ======================= 1998 ====================================================================== -->
-            <div class="row bg-warning w-100">
                 <div class="col-2">
                     1998
                 </div>
@@ -187,7 +183,6 @@
                     Baccalauréat Science et Technologies du Tertiaire, option Comptabilité-Gestion - Lycée Marie-Curie,
                     Marseille
                 </div>
-            </div>
         </div>
     </div>
 </main>
