@@ -4,9 +4,9 @@
     <div class="container">
         <div class="row">
             <div class="col-12 w-100">
-                <button type="button" class="btn btn-secondary btn-lg btn-block mb-5" disabled>
+                <div class="btn-secondary btn-lg btn-block mb-5">
                     <h1 class="border-bottom text-center pb2">Mes hobbies</h1>
-                </button>
+                </div>
             </div>
         </div>
         <!-- ============================= LES JEUX VIDEOS =================================================== -->
@@ -47,8 +47,7 @@
                                 <h3 class="text-center text-gamecodeur font-weight-bold">Gamecodeur</h3>
                             </div>
                             <div class="video-responsive">
-                                <iframe width="310" height="150" src="https://www.youtube.com/embed/1IGoQpHnsaA"
-                                        frameborder="0"
+                                <iframe width="310" height="200" src="https://www.youtube.com/embed/1IGoQpHnsaA"
                                         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                                         allowfullscreen></iframe>
                             </div>
@@ -71,7 +70,6 @@
                             </div>
                             <div class="video-responsive">
                                 <iframe width="560" height="315" src="https://www.youtube.com/embed/dM8fVngJBAc"
-                                        frameborder="0"
                                         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                                         allowfullscreen></iframe>
                             </div>
@@ -90,9 +88,9 @@
                     </div>
                     <!-- =============== SECTION DES PROCHAINS APPRENTISSAGES SUR GAMECODEUR =============== -->
                         <div class="col-12">
-                            <card class="btn-secondary btn-lg btn-block mb-3">
+                            <div class="btn-secondary btn-lg btn-block mb-3">
                                 <h3 class="border-bottom text-center pb2">Mes prochains apprentissages</h3>
-                            </card>
+                            </div>
                         </div>
                     <!-- ============================= Casse briques ============================================ -->
                     <div class="col-12 col-sm-4 pb-2">
