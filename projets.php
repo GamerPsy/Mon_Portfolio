@@ -312,6 +312,8 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
 </main>
 
 <?php include "include/footer.php" ?>
