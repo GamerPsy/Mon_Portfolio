@@ -107,8 +107,8 @@
                             </div>
                             <div class="card-footer">
                                 <p class="card-skills">
-                                    <span class="badge badge-info">Lua</span>
-                                    <span class="badge badge-info">LOVE 2D</span>
+                                    <span class="badge badge-dark">Lua</span>
+                                    <span class="badge badge-dark">LOVE 2D</span>
                                 </p>
                             </div>
                         </div>
@@ -126,8 +126,8 @@
                             </div>
                             <div class="card-footer">
                                 <p class="card-skills">
-                                    <span class="badge badge-info">Lua</span>
-                                    <span class="badge badge-info">LOVE 2D</span>
+                                    <span class="badge badge-dark">Lua</span>
+                                    <span class="badge badge-dark">LOVE 2D</span>
                                 </p>
                             </div>
                         </div>
@@ -147,8 +147,8 @@
                             </div>
                             <div class="card-footer">
                                 <p class="card-skills">
-                                    <span class="badge badge-info">Lua</span>
-                                    <span class="badge badge-info">LOVE 2D</span>
+                                    <span class="badge badge-dark">Lua</span>
+                                    <span class="badge badge-dark">LOVE 2D</span>
                                 </p>
                             </div>
                         </div>
