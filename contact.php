@@ -36,11 +36,11 @@
                                           required></textarea>
                             </div>
                         </div>
-                        <div class="card-footer">
-                            <button class="btn color-compostelle text-warning font-weight-bold mx-auto d-block w-50"
-                                    type="submit">Envoyer votre message à Rémy !
-                            </button>
-                        </div>
+                            <div class="card-footer">
+                                <button class="btn color-compostelle text-warning font-weight-bold mx-auto d-block"
+                                        type="submit">Envoyer votre message à Rémy !
+                                </button>
+                            </div>
                     </form>
                 </div>
             </div>
