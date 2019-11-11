@@ -4,15 +4,15 @@
     <div class="container">
         <div class="row">
             <div class="col-12 w-100">
-                <button type="button" class="btn btn-secondary btn-lg btn-block mb-3" disabled>
+                <card class="btn-secondary btn-lg btn-block mb-3">
                     <h1 class="border-bottom text-center pb2">Mon parcours formation</h1>
-                </button>
+                </card>
             </div>
         </div>
 
         <div class="row bg-info mt-2 pt-2">
             <!-- ======================= 2019 ====================================================================== -->
-                <div class="col-2">
+                <div class="col-12 col-sm-2">
                     2019
                 </div>
                 <div class="col-12 col-sm-10">
@@ -20,12 +20,12 @@
                     <div class="row bg-info">
                         <!-- =========================== Découvrez l'univers de la cybersécurité =================== -->
                         <div class="col pb-2">
-                            <div class="row h-100 w-100">
-                                <div class="col-1 h-100">
+                            <div class="row mr-2">
+                                <div class="col-1">
                                     <img class="openclassrooms d-none d-lg-block mx-auto" src="images/openclassrooms.png"
                                          alt="Openclassrooms"/>
                                 </div>
-                                <div class="col-11 h-100 bg-secondary pt-1">
+                                <div class="col-11 bg-secondary pt-1">
                                     <h5 class="font-weight-bold">Découvrez l'univers de la cybersécurité -
                                         Openclassrooms</h5>
                                     <i class="fas fa-clock mr-2"></i><span>Délivré en janvier 2019</span>
@@ -34,12 +34,12 @@
                         </div>
                         <!-- =========================== Gérer son identité numérique ============================== -->
                         <div class="col-12 pb-2">
-                            <div class="row h-100 w-100">
-                                <div class="col-1 h-100">
+                            <div class="row mr-2">
+                                <div class="col-1">
                                     <img class="openclassrooms d-none d-lg-block mx-auto" src="images/openclassrooms.png"
                                          alt="Openclassrooms"/>
                                 </div>
-                                <div class="col-11 h-100 bg-secondary pt-1">
+                                <div class="col-11 bg-secondary pt-1">
                                     <h5 class="font-weight-bold">Gérer son identité numérique - Openclassrooms</h5>
                                     <i class="fas fa-clock mr-2"></i><span>Délivré en janvier 2019</span>
                                 </div>
@@ -78,7 +78,6 @@
                         </li>
                         <li>48h -> coder en équipe de 5 une application pour la COP du Lab'O d'Orléans</li>
                     </ul>
-
             </div>
         </div>
         <div class="row bg-info mt-2 pt-2">
@@ -91,12 +90,12 @@
                     <div class="row bg-info">
                         <!-- =========================== Gérez votre code avec Git et Github ======================= -->
                         <div class="col-12 pb-2">
-                            <div class="row h-100 w-100">
-                                <div class="col-1 h-100">
+                            <div class="row mr-2">
+                                <div class="col-1">
                                     <img class="openclassrooms d-none d-lg-block mx-auto" src="images/openclassrooms.png"
                                          alt="Openclassrooms"/>
                                 </div>
-                                <div class="col-11 h-100 bg-secondary pt-1">
+                                <div class="col-11 bg-secondary pt-1">
                                     <h5 class="font-weight-bold">Gérez votre code avec Git et Github -
                                         Openclassrooms</h5>
                                     <i class="fas fa-clock mr-2"></i><span>Délivré en novembre 2018</span>
@@ -105,12 +104,12 @@
                         </div>
                         <!-- =========================== Comprendre le web ========================================= -->
                         <div class="col-12 pb-2">
-                            <div class="row h-100 w-100">
-                                <div class="col-1 h-100">
+                            <div class="row mr-2">
+                                <div class="col-1">
                                     <img class="openclassrooms d-none d-lg-block mx-auto" src="images/openclassrooms.png"
                                          alt="Openclassrooms"/>
                                 </div>
-                                <div class="col-11 h-100 bg-secondary pt-1">
+                                <div class="col-11 bg-secondary pt-1">
                                     <h5 class="font-weight-bold">Comprendre le web - Openclassrooms</h5>
                                     <i class="fas fa-clock mr-2"></i><span>Délivré en août 2018</span>
                                 </div>
@@ -118,12 +117,12 @@
                         </div>
                         <!-- =========================== Maintenez vous à jour en développement ==================== -->
                         <div class="col-12 pb-2">
-                            <div class="row h-100 w-100">
-                                <div class="col-1 h-100">
+                            <div class="row mr-2">
+                                <div class="col-1">
                                     <img class="openclassrooms d-none d-lg-block mx-auto" src="images/openclassrooms.png"
                                          alt="Openclassrooms"/>
                                 </div>
-                                <div class="col-11 h-100 bg-secondary pt-1">
+                                <div class="col-11 bg-secondary pt-1">
                                     <h5 class="font-weight-bold">Maintenez vous à jour en développement -
                                         Openclassrooms</h5>
                                     <i class="fas fa-clock mr-2"></i><span>Délivré en juillet 2018</span>
@@ -132,12 +131,12 @@
                         </div>
                         <!-- =========================== Apprenez à apprendre ====================================== -->
                         <div class="col-12 pb-2">
-                            <div class="row h-100 w-100">
-                                <div class="col-1 h-100">
+                            <div class="row mr-2">
+                                <div class="col-1">
                                     <img class="openclassrooms d-none d-lg-block mx-auto" src="images/openclassrooms.png"
                                          alt="Openclassrooms"/>
                                 </div>
-                                <div class="col-11 h-100 bg-secondary pt-1">
+                                <div class="col-11 bg-secondary pt-1">
                                     <h5 class="font-weight-bold">Apprenez à apprendre - Openclassrooms</h5>
                                     <i class="fas fa-clock mr-2"></i><span>Délivré en février 2018</span>
                                 </div>
@@ -145,12 +144,12 @@
                         </div>
                         <!-- =========================== Mettez en place un système de veille informationelle ====== -->
                         <div class="col-12 pb-2">
-                            <div class="row h-100 w-100">
-                                <div class="col-1 h-100">
+                            <div class="row mr-2">
+                                <div class="col-1">
                                     <img class="openclassrooms d-none d-lg-block mx-auto" src="images/openclassrooms.png"
                                          alt="Openclassrooms"/>
                                 </div>
-                                <div class="col-11 h-100 bg-secondary pt-1">
+                                <div class="col-11 bg-secondary pt-1">
                                     <h5 class="font-weight-bold">Mettez en place un système de veille informationelle -
                                         Openclassrooms</h5>
                                     <i class="fas fa-clock mr-2"></i><span>Délivré en février 2018</span>

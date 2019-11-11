@@ -3,10 +3,10 @@
 <main class="bg-dark">
     <div class="container">
         <div class="row">
-            <div class="col-12 w-100">
-                <button type="button" class="btn btn-secondary btn-lg btn-block mb-3" disabled>
+            <div class="col">
+                <card class="btn-secondary btn-lg btn-block mb-3">
                     <h1 class="border-bottom text-center pb2">Mes expériences professionnelles</h1>
-                </button>
+                </card>
             </div>
         </div>
         <!-- ========================= 2019 =================================================================== -->
