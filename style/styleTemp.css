@@ -41,7 +41,7 @@ main
 .main-formation
 {
     min-height: 85vh;
-    padding-top: 5vh;
+    padding-top: 3vh;
 }
 
 /* ----------------------------------- partie Contact ------------------------------------- */
@@ -123,6 +123,12 @@ main
     height:100%;
     width:100%;
     position: relative;
+}
+
+.openclassrooms
+{
+    width: 60px;
+    height: 60px;
 }
 
 /*   --------------------------------------------- ANIMATIONS ----------------------------------------- */

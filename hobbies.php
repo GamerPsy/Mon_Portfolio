@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 w-100">
-                <button type="button" class="btn btn-secondary btn-lg btn-block mb-3" disabled>
+                <button type="button" class="btn btn-secondary btn-lg btn-block mb-5" disabled>
                     <h1 class="border-bottom text-center pb2">Mes hobbies</h1>
                 </button>
             </div>
