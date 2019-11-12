@@ -1,14 +1,13 @@
 <?php require_once "algos/date.php" ?>
 
-<!--
-			           .--.                  Try not.
- ::\`--._,'.::.`._.--'/::     Do or do not.
- ::::.  ` __::__ '  .::::    There is no try.
+<!-- ===================================================================================================================
+			           .--.  Try not.
+ ::\`--._,'.::.`._.--'/::    Do or do not.
+ ::::.  ` __::__ '  .::::    There is no try.           | Ce portfolio a été réalisé du header au footer par Rémy DUCRY.
  ::::::-:.`'..`'.:-::::::
  ::::::::\ `--' /::::::::              -Yoda
 
- Ce portfolio a été réalisé du header au footer par Rémy DUCRY.
--->
+==================================================================================================================== -->
 
 <footer class="bg-black text-center text-white mt-3 mb-2">
     <div class="container">
