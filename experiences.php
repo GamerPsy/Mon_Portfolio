@@ -4,9 +4,9 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <card class="btn-secondary btn-lg btn-block mb-3">
+                <div class="btn-secondary btn-lg btn-block mb-3">
                     <h1 class="border-bottom text-center pb2">Mes expériences professionnelles</h1>
-                </card>
+                </div>
             </div>
         </div>
         <!-- ========================= 2019 =================================================================== -->

@@ -5,9 +5,9 @@
         <!-- ============ SECTION DU FUTUR =================================================================== -->
         <div class="row">
             <div class="col-12">
-                <button type="button" class="btn btn-secondary btn-lg btn-block mb-1" disabled>
+                <div class="btn btn-secondary btn-lg btn-block mb-1">
                     <h3 class="border-bottom text-center pb2">Projets à venir !</h3>
-                </button>
+                </div>
             </div>
             <!-- ============================= Apprentissage : JAVA JEE ===================================== -->
             <div class="col-12 col-sm-4 pb-4">
@@ -98,9 +98,9 @@
         <!-- ============ SECTION 2019 ================================================================== -->
         <div class="row">
             <div class="col-12">
-                <button type="button" class="btn btn-secondary btn-lg btn-block mb-1" disabled>
+                <div class="btn btn-secondary btn-lg btn-block mb-1">
                     <h3 class="border-bottom text-center pb2"> Projets de l'année 2019</h3>
-                </button>
+                </div>
             </div>
 
             <!-- ============================= Mon portfolio ========================================== -->
@@ -206,9 +206,9 @@
         <!-- ============ SECTION 2018 =================================================================== -->
         <div class="row">
             <div class="col-12">
-                <button type="button" class="btn btn-secondary btn-lg btn-block mb-1" disabled>
+                <div class="btn btn-secondary btn-lg btn-block mb-1">
                     <h3 class="border-bottom text-center pb2">Projets de l'année 2018</h3>
-                </button>
+                </div>
             </div>
 
             <!-- ============================= WCS Projet 2 - Site dynamique ============================== -->
@@ -312,6 +312,8 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
 </main>
 
 <?php include "include/footer.php" ?>
