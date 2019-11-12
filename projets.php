@@ -109,7 +109,7 @@
                     <div class="card-header">
                         <h3 class="text-center">Projet perso : mon portfolio</h3>
                     </div>
-                    <img class="card-img-top" src="images/projets/portfolio.png" alt="Mon Portfolio"/>
+                    <img class="card-img-top" src="images/projets/portfolio.gif" alt="Mon Portfolio"/>
                     <div class="card-body">
                         <h5 class="card-title">Mon portfolio</h5>
                         <p class="card-text">
