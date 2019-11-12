@@ -32,15 +32,17 @@
                                 <div class="col-12">
                                     <label for="msg">Votre message :</label>
                                 </div>
-                                <textarea id="msg" class="col-12" name="user_message" placeholder="Exprimez vous !"
-                                          required></textarea>
+                                <textarea id="msg" class="col-12" name="user_message" maxlength="500"
+                                          placeholder="Exprimez vous !" required></textarea>
                             </div>
+                            <p><?php if (isset($errors['message1'])) echo $errors['message1']; ?></p>
+                            <p><?php if (isset($errors['message2'])) echo $errors['message2']; ?></p>
                         </div>
-                            <div class="card-footer">
-                                <button class="btn color-compostelle text-warning font-weight-bold mx-auto d-block"
-                                        type="submit">Envoyer votre message à Rémy !
-                                </button>
-                            </div>
+                        <div class="card-footer">
+                            <button class="btn color-compostelle text-warning font-weight-bold mx-auto d-block"
+                                    type="submit">Envoyer votre message à Rémy !
+                            </button>
+                        </div>
                     </form>
                 </div>
             </div>
