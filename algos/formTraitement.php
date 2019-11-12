@@ -27,32 +27,30 @@ if ($_POST) {
 
     if (empty($_POST['user_message'])) {
         $errors['message1'] = "Vous devez écrire un message";
+    } elseif (strlen($_POST['user_message']) > 500) {
+        $errors['message2'] = "Vous avez dépassé la limite authorisée de 500 caractères.";
     } else {
         $_POST['user_message'] = test_input($_POST['user_message']);
     }
 
 
-    if (count($errors) == 0) {
+    if (count($errors) === 0) {
         $destinataire = 'ducry.remy@gmail.com';
         $expediteur = $_POST['user_nom'];
-        $objet = "message provenant du site pro";
+        $objet = "Message site portfolio";
 
-        //problème avec le header !!! à refaire !!!!!!!
-        $headers = 'MIME-Version: 1.0' . "\n";
-        $headers .= 'Content-type: text/html; charset=ISO-8859-1' . "\n";
-        $headers .= 'To: ' . $expediteur . "\n";
-        $headers .= 'From: "Message provenant du site portfolio"<' . $expediteur . '>' . "\n";
+        $headers[] = 'MIME-Version: 1.0';
+        $headers[] = 'Content-type: text/html; charset=UTF-8';
 
-        $message = 'Bonjour Rémy,
-                    voici un message provenant de ' . $_POST['user_nom'] . ' ( ' . $_POST['user_mail'] . ')
-                    son message: ' . $_POST['user_message'];
+        $message = '<h3> Message de ' . $expediteur ." " . "( " . $_POST['user_mail'] . " )" . ' : </h3>' . "\n";
+        $message .= '<p>' . $_POST['user_message'] . '</p>';
 
-        if (mail($destinataire, $objet, $message)) {
-            echo '<script>alert("Votre message a bien été envoyé ");</script>';
+        if (mail($destinataire, $objet, $message, implode("\r\n", $headers))) {
+            $success = '<button type="button" class="btn btn-success" disabled>' .$expediteur. ' votre message est envoyé !!!</button>';
+            unset($_POST);
         } else {
-            echo '<script>alert("Il y a un problème, votre mail n\'a pas été envoyé");</script>';
+            header('Location: contact.php');
         }
     }
-    unset($_POST);
 }
 ?>
