@@ -9,6 +9,35 @@
                     <h3 class="border-bottom text-center pb2">Projets à venir !</h3>
                 </div>
             </div>
+            <!-- ============================= Jeux vidéos : plateformer avec dinosaures ======================== -->
+            <div class="col-12 col-sm-4 pb-4">
+                <div class="card bg-success h-100">
+                    <div class="card-header">
+                        <h3 class="text-center">Dino Jungle</h3>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text">
+                            Prototype de jeu vidéo ayant un double objectif. D'une part rendre mon apprentissage de
+                            Javascript plus fun et d'autre part de commencer par un projet concret à m'initier au
+                            développement de jeu vidéo dans l'univers du web.
+                        </p>
+                        <p class="card-skills">
+                            <span class="badge badge-dark">Javascript</span>
+                            <span class="badge badge-dark">Phaser</span>
+                        </p>
+                        <div class="card-footer">
+                            <a role="button" class="btn btn-dark"
+                               href="https://github.com/GamerPsy/DinoJungle_JSversion"
+                               title="Dino Jungle" target="_blank">
+                                <i class="fab fa-github"></i>
+                            </a>
+                            <span class="mx-2">|</span>
+                            <i class="fas fa-user mr-2"></i> Moi-même !
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <!-- ============================= Apprentissage : JAVA JEE ===================================== -->
             <div class="col-12 col-sm-4 pb-4">
                 <div class="card bg-success h-100">
@@ -65,36 +94,7 @@
                     </div>
                 </div>
             </div>
-            <!-- ============================= Jeux vidéos : plateformer avec dinosaures ======================== -->
-            <div class="col-12 col-sm-4 pb-4">
-                <div class="card bg-success h-100">
-                    <div class="card-header">
-                        <h3 class="text-center">Dino Jungle</h3>
-                    </div>
-                    <div class="card-body">
-                        <p class="card-text">
-                            Projet pour m'initier à la programmation de jeu vidéo, une idée assez simple mais qui
-                            me permettra de toucher à des concepts de collisions, scores et peut-être même une IA pour
-                            les ennemis.
-                        </p>
-                        <p class="card-skills">
-                            <span class="badge badge-dark">Lua</span>
-                            <span class="badge badge-dark">Love 2D</span>
-                        </p>
-                    </div>
-                    <div class="card-footer">
-                        <a role="button" class="btn btn-dark"
-                           href=""
-                           title="Dino Jungle" target="_blank">
-                            <i class="fab fa-github"></i>
-                        </a>
-                        <span class="mx-2">|</span>
-                        <i class="fas fa-user mr-2"></i> Moi-même !
-                    </div>
-                </div>
-            </div>
         </div>
-
         <!-- ============ SECTION 2019 ================================================================== -->
         <div class="row">
             <div class="col-12">
