@@ -14,7 +14,6 @@
                             <li><span class="font-weight-bold">Age :</span> <?= $ageOfRemy ?> ans</li>
                             <li><span class="font-weight-bold">Langage :</span> PHP</li>
                             <li><span class="font-weight-bold">Localisation :</span> Orléans</li>
-                            <li><span class="font-weight-bold">Mobilité :</span> transports en commun.</li>
                             <li><span class="font-weight-bold">En recherche d'emploi:</span> OUI</li>
                             <li class="font-weight-bold">Le contacter : <a href="contact.php"> &gt;&gt;&gt; Par ici ! &lt;&lt;&lt; </a></li>
                         </ul>
