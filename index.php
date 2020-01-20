@@ -18,9 +18,9 @@
                                     &lt;&lt;&lt; </a></li>
                         </ul>
                     </div>
-                    <div class="card-footer h-100 w-100">
-                        <a href="/documents/Remy_DUCRY_Developpeur_Web_Junior.pdf" target="_blank">
-                            <div class="btn color-compostelle mx-auto d-block w-100 h-100 pt-3">
+                    <div class="card-footer w-100">
+                        <a href="/documents/Remy_DUCRY_Testeur_logiciel.pdf" target="_blank">
+                            <div class="btn color-compostelle mx-auto d-block w-100 pt-3">
                                 <span class="font-weight-bold text-warning">Télécharger le CV !</span>
                             </div>
                         </a>
@@ -87,7 +87,7 @@
                             Fin 2019 j'ai voulu par curiosité, soif de compétences et volonté de me démarquer en tant
                             que développeur junior, suivre une formation pour passer la certification ISTQB fondation
                             avec le centre de formation M2i et j'ai découvert le secteur dans l'informatique qui
-                            convient à marveille à ma personnalité. Il s'agit non seulement d'une suite logique à mon
+                            convient à merveille à ma personnalité. Il s'agit non seulement d'une suite logique à mon
                             stage avec le PREBS mais d'une évidence de part ma nature à chercher le détail et mon esprit
                             critique.
                             <br/>
