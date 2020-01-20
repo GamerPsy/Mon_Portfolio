@@ -7,15 +7,15 @@
             <!-- ==================== Infos Rémy ============================================================= -->
             <div class="col-12 col-sm-4 offset-sm-2">
                 <div class="card w-100 h-100">
-                    <h4 class="font-weight-bold mx-auto">Fiche du développeur</h4>
+                    <h4 class="font-weight-bold mx-auto">Fiche de présentation</h4>
                     <div class="card-body">
                         <ul>
                             <li><span class="font-weight-bold">Nom :</span> DUCRY Rémy</li>
                             <li><span class="font-weight-bold">Age :</span> <?= $ageOfRemy ?> ans</li>
-                            <li><span class="font-weight-bold">Langage :</span> PHP</li>
                             <li><span class="font-weight-bold">Localisation :</span> Orléans</li>
                             <li><span class="font-weight-bold">En recherche d'emploi:</span> OUI</li>
-                            <li class="font-weight-bold">Le contacter : <a href="contact.php"> &gt;&gt;&gt; Par ici ! &lt;&lt;&lt; </a></li>
+                            <li class="font-weight-bold">Me contacter : <a href="contact.php"> &gt;&gt;&gt; Par ici !
+                                    &lt;&lt;&lt; </a></li>
                         </ul>
                     </div>
                     <div class="card-footer h-100 w-100">
@@ -39,19 +39,17 @@
             <!-- ============================ Présentation succinte =========================================== -->
             <div class="card col-12 justify-content-center">
                 <div class="card-body mx-auto">
-                    Je suis actuellement à la recherche d'un poste de développeur web junior,
-                    <span class="font-weight-bold">qu'importe le langage et la technologie du moment qu'on me permet
-                        de monter en compétences.</span>
+                    Je suis à la recherche d’un poste de <span class="font-weight-bold">testeur logiciel</span>, je veux
+                    gagner en expertise et compétences dans le milieu du test.
                     <br/>
-                    J'aime la rigueur, aussi je fais mon maximum pour <span class="font-weight-bold">rechercher et
-                    appliquer les meilleures pratiques</span>, les philosophies <span class="font-weight-bold">DRY
-                    </span> et <span class="font-weight-bold">KISS</span> sont mes amies naturelles et je <span
-                            class="font-weight-bold">teste toujours mon code</span>.
+                    Je suis <span class="font-weight-bold">analytique</span>, j'aime la <span class="font-weight-bold">
+                        rigueur</span>, les philosophies <span class="font-weight-bold">DRY</span> et 
+                    <span class="font-weight-bold">KISS</span> sont mes amies naturelles et le métier du test me colle à
+                    merveille.
                     <br/>
-                    En reconversion pour ma passion, je sors d'une formation intensive à la Wild Code School où j'ai
-                    appris les bases de la programmation avec PHP, j'ai ensuite effectué un stage de 4 mois avec le
-                    <a href="https://prebs.info/notre-fondation/" target="_blank">PREBS</a> où j'ai abordé d'autres
-                    aspect du développement informatique.
+                    Développeur web junior, par curiosité et soif d’apprendre, je suis une formation ISTQB de 50 jours
+                    avec M2i pour découvrir le métier de testeur et très rapidement je suis tombé sous le charme de ce
+                    métier !
                     <br/>
                     <div class="card-footer mx-auto pt-4">
                         <button class="btn btn-dark mx-auto d-block" type="button" data-toggle="collapse"
@@ -69,9 +67,11 @@
                             Plus jeune je voulais devenir programmeur/analyste puis mon parcours de vie et mon fort
                             attachement à certaines valeurs humaines m’ont fait choisir une carrière dans le soin à la
                             personne. J’ai évolué au fil du temps et des expériences de vie pour me concentrer de plus
-                            en plus sur mon évolution personnelle, c’est dans ce contexte que l’année dernière j’ai
+                            en plus sur mon évolution personnelle, c’est dans ce contexte qu'en 2018 j’ai
                             ressenti le besoin de revenir à ma passion et mon rêve d’enfant/adolescent : devenir
                             programmeur/analyste.
+                            <br/>
+                            Puis j'ai découvert le milieu du test fin 2019...
                             <br/>
                             <br/>
                             <h5 class="font-weight-bold">Ma reconversion :</h5>
@@ -84,20 +84,21 @@
                             l'élaboration d'un portail de référencement pour mutualiser plus d'une vingtaine de base de
                             données.
                             <br/>
-                            Je nourris chaque jour ma passion pour l'informatique et surtout la programmation avec des
-                            compétences qui grandissent et s'affirment au fil des jours !
-                            Pour le moment je continu sur ma lancée d'apprentissage avec PHP et j'ai ensuite pour projet
-                            de me mettre sur les langages Java, C#, Javascript et Python.
+                            Fin 2019 j'ai voulu par curiosité, soif de compétences et volonté de me démarquer en tant
+                            que développeur junior, suivre une formation pour passer la certification ISTQB fondation
+                            avec le centre de formation M2i et j'ai découvert le secteur dans l'informatique qui
+                            convient à marveille à ma personnalité. Il s'agit non seulement d'une suite logique à mon
+                            stage avec le PREBS mais d'une évidence de part ma nature à chercher le détail et mon esprit
+                            critique.
                             <br/>
                             <br/>
                             <h5 class="font-weight-bold">Mes atouts :</h5>
-                            Je suis junior dans le métier de développeur, en revanche j'ai un parcours qui m'a permis de
-                            développer et affirmer des compétences appréciées et transposables à la programmation dont
-                            une solide capacité à travailler en équipe.
+                            Je suis développeur web junior et j'ai un parcours qui m'a permis de développer et affirmer
+                            des compétences appréciées et transposables dans le métier du test dont une solide capacité
+                            à travailler en équipe.
                             <br/>
-                            J'aime comprendre "comment ça fonctionne", aussi j'apprécie énormément le back-end et pas
-                            mal de domaines sont pour moi des contrèes inexplorées à explorer ! (IA, Big Data,
-                            Cyber Sécurité, objets connectés).
+                            J'aime comprendre "comment ça fonctionne", pas mal de domaines sont pour moi des contrèes
+                            inexplorées à explorer ! (IA, Big Data, Cyber Sécurité, objets connectés).
                             <br/>
                             Petit plus, je suis de nature très sociable et très très souvent de bonne humeur !
                         </div>
