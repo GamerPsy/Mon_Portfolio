@@ -9,34 +9,6 @@
                     <h3 class="border-bottom text-center pb2">Projets à venir !</h3>
                 </div>
             </div>
-            <!-- ============================= Jeux vidéos : plateformer avec dinosaures ======================== -->
-            <div class="col-12 col-sm-4 pb-4">
-                <div class="card bg-success h-100">
-                    <div class="card-header">
-                        <h3 class="text-center">Dino Jungle</h3>
-                    </div>
-                    <div class="card-body">
-                        <p class="card-text">
-                            Prototype de jeu vidéo ayant un double objectif. D'une part rendre mon apprentissage de
-                            Javascript plus fun et d'autre part de commencer par un projet concret à m'initier au
-                            développement de jeu vidéo dans l'univers du web.
-                        </p>
-                        <p class="card-skills">
-                            <span class="badge badge-dark">Javascript</span>
-                            <span class="badge badge-dark">Phaser</span>
-                        </p>
-                        <div class="card-footer">
-                            <a role="button" class="btn btn-dark"
-                               href="https://github.com/GamerPsy/DinoJungle_JSversion"
-                               title="Dino Jungle" target="_blank">
-                                <i class="fab fa-github"></i>
-                            </a>
-                            <span class="mx-2">|</span>
-                            <i class="fas fa-user mr-2"></i> Moi-même !
-                        </div>
-                    </div>
-                </div>
-            </div>
 
             <!-- ============================= Apprentissage : JAVA JEE ===================================== -->
             <div class="col-12 col-sm-4 pb-4">
@@ -95,15 +67,45 @@
                 </div>
             </div>
         </div>
-        <!-- ============ SECTION 2019 ================================================================== -->
+        <!-- ============ SECTION 2019 ============================================================================= -->
         <div class="row">
             <div class="col-12">
                 <div class="btn btn-secondary btn-lg btn-block mb-1">
                     <h3 class="border-bottom text-center pb2"> Projets de l'année 2019</h3>
                 </div>
             </div>
-
-            <!-- ============================= Mon portfolio ========================================== -->
+            <!-- ============================= Dino Jungle ========================================================= -->
+            <div class="col-12 col-sm-6 pb-4">
+                <div class="card bg-success h-100">
+                    <div class="card-header">
+                        <h3 class="text-center">Projet perso : Dino Jungle</h3>
+                    </div>
+                    <img class="card-img-top" src="images/projets/Dino_Jungle.png" alt="Dino Jungle"/>
+                    <div class="card-body">
+                        <h5 class="card-title">Dino Jungle</h5>
+                        <p class="card-text">
+                            Un prototype de jeu vidéo avec Phaser en appel CDN pour rendre mon apprentissage de
+                            Javascript plus fun et d'autre part pour commencer à m'initier au développement de jeu vidéo
+                            dans l'univers du web.
+                        </p>
+                        <p class="card-skills">
+                            <span class="badge badge-dark">Phaser</span>
+                            <span class="badge badge-dark">Javascript</span>
+                            <span class="badge badge-dark">Jeu vidéo</span>
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <a role="button" class="btn btn-dark"
+                           href="http://remy-ducry.fr/DinoJungle_JSversion/"
+                           title="Dino Jungle" target="_blank">
+                            <i class="fas fa-gamepad"></i>
+                        </a>
+                        <span class="mx-2">|</span>
+                        <i class="fas fa-user mr-2"></i> Moi-même !
+                    </div>
+                </div>
+            </div>
+            <!-- ============================= Mon portfolio ======================================================= -->
             <div class="col-12 col-sm-6 pb-4">
                 <div class="card bg-success h-100">
                     <div class="card-header">
@@ -134,7 +136,7 @@
                     </div>
                 </div>
             </div>
-            <!-- ============================= WCS Projet 3 - Application pour client ========================== -->
+            <!-- ============================= WCS Projet 3 - Application pour client ============================== -->
             <div class="col-12 col-sm-6 pb-4">
                 <div class="card color-wcs h-100">
                     <div class="card-header">
