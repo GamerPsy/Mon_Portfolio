@@ -14,8 +14,8 @@
                             <li><span class="font-weight-bold">Age :</span> <?= $ageOfRemy ?> ans</li>
                             <li><span class="font-weight-bold">Localisation :</span> Orléans</li>
                             <li><span class="font-weight-bold">En recherche d'emploi:</span> OUI</li>
-                            <li class="font-weight-bold">Me contacter : <a href="contact.php"> &gt;&gt;&gt; Par ici !
-                                    &lt;&lt;&lt; </a></li>
+                            <li class="font-weight-bold">Me contacter : <a href="contact.php"> Formulaire de
+                                    contact </a> ou <a href="mailto:contact@remy-ducry.fr"> e-mail </a></li>
                         </ul>
                     </div>
                     <div class="card-footer w-100">
