@@ -14,8 +14,8 @@
                             <li><span class="font-weight-bold">Age :</span> <?= $ageOfRemy ?> ans</li>
                             <li><span class="font-weight-bold">Localisation :</span> Orléans</li>
                             <li><span class="font-weight-bold">En recherche d'emploi:</span> OUI</li>
-                            <li class="font-weight-bold">Me contacter : <a href="contact.php"> &gt;&gt;&gt; Par ici !
-                                    &lt;&lt;&lt; </a></li>
+                            <li class="font-weight-bold">Me contacter : <a href="contact.php"> Formulaire de
+                                    contact </a> ou <a href="mailto:contact@remy-ducry.fr"> e-mail </a></li>
                         </ul>
                     </div>
                     <div class="card-footer w-100">
@@ -58,6 +58,7 @@
                             Version plus détaillée !
                         </button>
                     </div>
+                    <!-- ============================ Présentation développée ====================================== -->
                     <div class="collapse" id="versiondetail">
                         <div class="card card-body">
                             <h5 class="font-weight-bold">Mon parcours :</h5>
@@ -75,12 +76,14 @@
                             <br/>
                             <br/>
                             <h5 class="font-weight-bold">Ma reconversion :</h5>
-                            J'ai commencé le processus de reconversion en parallèle de mon dernier contrat en qualité de
-                            formateur, j'ai fait le choix d'une formation intensive à la Wild Code School pour
-                            son approche pédagogique innovante, j'y ai appris les bases de la programmation avec PHP et
+                            J'ai commencé le processus de reconversion, en 2018, en parallèle de mon dernier contrat en
+                            qualité de formateur pour adultes.
+                            <br/>
+                            J'ai fait le choix d'une formation intensive à la Wild Code School pour son approche
+                            pédagogique innovante, j'y ai appris les bases de la programmation avec PHP et
                             l'usage de Symfony 4.
                             <br/>
-                            Pour mon stage post-formation (4 mois) avec le PREBS j'étais au coeur d'un super projet :
+                            Pour mon stage post-formation (4 mois) avec le PREBS j'étais à la génèse d'un super projet :
                             l'élaboration d'un portail de référencement pour mutualiser plus d'une vingtaine de base de
                             données.
                             <br/>

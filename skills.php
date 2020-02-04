@@ -2,6 +2,134 @@
 
 <main class="bg-dark">
     <div class="container">
+        <!-- ==================== SECTION TESTING ================================================================== -->
+        <div class="row bg-info">
+            <div class="col-12">
+                <h3 class="border-bottom text-center pb2">Testing</h3>
+            </div>
+            <!-- ============================ SQUASH TM ============================================================ -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                    src="images/testing/squash.png" alt="SQUASH TM"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">SQUASH TM</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
+                    </div>
+                </div>
+            </div>
+            <!-- ============================ MANTIS BT ============================================================ -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                    src="images/testing/MantisBT.png" alt="Mantis BT"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">MANTIS BT</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
+                    </div>
+                </div>
+            </div>
+            <!-- ============================ KATALON Studio ======================================================= -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                    src="images/testing/Katalon_Studio.png" alt="Katalon Studio"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Katalon Studio</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
+                    </div>
+                </div>
+            </div>
+            <!-- ============================ Selenium ============================================================= -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                    src="images/testing/selenium.png" alt="Selenium"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Selenium</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ======================= METHODOLOGIE ====================================================== -->
+        <div class="row bg-warning">
+            <div class="col-12">
+                <h3 class="border-bottom text-center pb2">Methodologie</h3>
+            </div>
+            <!--============================= POO ===================================== -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                    src="images/methodologie/poo.png" alt="POO"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">POO</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
+                    </div>
+                </div>
+            </div>
+            <!-- =========================== TDD ============================================ -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                    src="images/methodologie/tdd.png" alt="TDD"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">TDD</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
+                    </div>
+                </div>
+            </div>
+            <!-- =========================== SCRUM/Agile ============================================== -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="my-3"><i class="fas fa-users fa-4x"></i></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">SCRUM / Agile</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
+                    </div>
+                </div>
+            </div>
+            <!-- ============================ Git =============================== -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                    src="images/outils/Logo_git.png" alt="Git"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Git</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
+                    </div>
+                </div>
+            </div>
+            <!-- =========================== GITHUB ======================================== -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                    src="images/outils/Logo_github.png" alt="Github"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Github</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- ==================== SECTION BACK ======================================================= -->
         <div class="row bg-info">
             <div class="col-12">
@@ -194,79 +322,6 @@
                 </div>
             </div>
         </div>
-
-        <!-- ======================= METHODOLOGIE ====================================================== -->
-        <div class="row bg-warning">
-            <div class="col-12">
-                <h3 class="border-bottom text-center pb2">Methodologie</h3>
-            </div>
-
-            <!-- ============================ Git =============================== -->
-            <div class="col-6 col-sm-2 pb-2">
-                <div class="card text-center bg-dark h-100">
-                    <div class="card-body bg-secondary">
-                        <p class="effect rounded mx-auto d-block img-fluid"><img
-                                    src="images/outils/Logo_git.png" alt="Git"/></p>
-                    </div>
-                    <div class="card-footer">
-                        <h6 class="font-weight-bold text-white">Git</h6>
-                        <p class="card-text text-success">Niv. confirmé</p>
-                    </div>
-                </div>
-            </div>
-            <!-- =========================== GITHUB ======================================== -->
-            <div class="col-6 col-sm-2 pb-2">
-                <div class="card text-center bg-dark h-100">
-                    <div class="card-body bg-secondary">
-                        <p class="effect rounded mx-auto d-block img-fluid"><img
-                                    src="images/outils/Logo_github.png" alt="Github"/></p>
-                    </div>
-                    <div class="card-footer">
-                        <h6 class="font-weight-bold text-white">Github</h6>
-                        <p class="card-text text-success">Niv. confirmé</p>
-                    </div>
-                </div>
-            </div>
-            <!--============================= POO ===================================== -->
-            <div class="col-6 col-sm-2 pb-2">
-                <div class="card text-center bg-dark h-100">
-                    <div class="card-body bg-secondary">
-                        <p class="effect rounded mx-auto d-block img-fluid"><img
-                                    src="images/methodologie/poo.png" alt="POO"/></p>
-                    </div>
-                    <div class="card-footer">
-                        <h6 class="font-weight-bold text-white">POO</h6>
-                        <p class="card-text text-success">Niv. confirmé</p>
-                    </div>
-                </div>
-            </div>
-            <!-- =========================== TDD ============================================ -->
-            <div class="col-6 col-sm-2 pb-2">
-                <div class="card text-center bg-dark h-100">
-                    <div class="card-body bg-secondary">
-                        <p class="effect rounded mx-auto d-block img-fluid"><img
-                                    src="images/methodologie/tdd.png" alt="TDD"/></p>
-                    </div>
-                    <div class="card-footer">
-                        <h6 class="font-weight-bold text-white">TDD</h6>
-                        <p class="card-text text-success">Niv. confirmé</p>
-                    </div>
-                </div>
-            </div>
-            <!-- =========================== SCRUM/Agile ============================================== -->
-            <div class="col-6 col-sm-2 pb-2">
-                <div class="card text-center bg-dark h-100">
-                    <div class="card-body bg-secondary">
-                        <p class="my-3"><i class="fas fa-users fa-4x"></i></p>
-                    </div>
-                    <div class="card-footer">
-                        <h6 class="font-weight-bold text-white">SCRUM / Agile</h6>
-                        <p class="card-text text-success">Niv. confirmé</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
         <!--======================== SECTION AUTRE =================================================== -->
         <div class="row bg-warning">
             <div class="col-12">
