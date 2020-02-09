@@ -31,7 +31,7 @@
             <div class="col-12 col-sm-4">
                 <div class="thumbnail">
                     <img class="effect rounded mx-auto d-block img-fluid img-thumbnail w-100 h-100"
-                         src="images/moi.jpg" alt="Rémy himself !">
+                         src="images/moi.png" alt="Rémy himself !">
                 </div>
             </div>
         </div>
