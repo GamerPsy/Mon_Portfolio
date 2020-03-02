@@ -39,9 +39,9 @@
             <!-- ============================ Présentation succinte =========================================== -->
             <div class="card col-12 justify-content-center">
                 <div class="card-body mx-auto">
-                    Testeur certifié ISTQB niveau fondation depuis fin février 2020, je suis à la recherche d’un poste
-                    de <span class="font-weight-bold">testeur logiciel</span>, je veux gagner en expertise et compétence
-                    s dans le milieu du test.
+                    <span class="font-weight-bold">Testeur certifié ISTQB</span> niveau fondation depuis fin février 2020
+                    , je suis à la recherche d’un poste de <span class="font-weight-bold">testeur logiciel</span>, je veux
+                    gagner en expertise et compétences dans le milieu du test.
                     <br/>
                     Je suis <span class="font-weight-bold">analytique</span>, j'aime la <span class="font-weight-bold">
                         rigueur</span>, les philosophies <span class="font-weight-bold">DRY</span> et 
@@ -73,8 +73,8 @@
                             ressenti le besoin de revenir à ma passion et mon rêve d’enfant/adolescent : devenir
                             programmeur/analyste.
                             <br/>
-                            Puis j'ai découvert le milieu du test fin 2019 et obtenu ma certification ISTQB niveau fonda
-                            tion le 24 février 2020 avec un score de 85%.
+                            Puis j'ai découvert le milieu du test fin 2019 et obtenu ma certification ISTQB niveau fondation
+                            le 24 février 2020 avec un score de 85%.
                             <br/>
                             <br/>
                             <h5 class="font-weight-bold">Ma reconversion :</h5>
