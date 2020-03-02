@@ -39,17 +39,18 @@
             <!-- ============================ Présentation succinte =========================================== -->
             <div class="card col-12 justify-content-center">
                 <div class="card-body mx-auto">
-                    Je suis à la recherche d’un poste de <span class="font-weight-bold">testeur logiciel</span>, je veux
-                    gagner en expertise et compétences dans le milieu du test.
+                    Testeur certifié ISTQB niveau fondation depuis fin février 2020, je suis à la recherche d’un poste
+                    de <span class="font-weight-bold">testeur logiciel</span>, je veux gagner en expertise et compétence
+                    s dans le milieu du test.
                     <br/>
                     Je suis <span class="font-weight-bold">analytique</span>, j'aime la <span class="font-weight-bold">
                         rigueur</span>, les philosophies <span class="font-weight-bold">DRY</span> et 
                     <span class="font-weight-bold">KISS</span> sont mes amies naturelles et le métier du test me colle à
                     merveille.
                     <br/>
-                    Développeur web junior, par curiosité et soif d’apprendre, je suis une formation ISTQB de 50 jours
-                    avec M2i pour découvrir le métier de testeur et très rapidement je suis tombé sous le charme de ce
-                    métier !
+                    Développeur web junior, c'est par curiosité et soif d’apprendre que j'ai suivi une formation ISTQB
+                    de 50 jours avec M2i fin 2019 pour découvrir le métier de testeur et très rapidement je suis tombé
+                    sous le charme de ce vaste métier !
                     <br/>
                     <div class="card-footer mx-auto pt-4">
                         <button class="btn btn-dark mx-auto d-block" type="button" data-toggle="collapse"
@@ -72,7 +73,8 @@
                             ressenti le besoin de revenir à ma passion et mon rêve d’enfant/adolescent : devenir
                             programmeur/analyste.
                             <br/>
-                            Puis j'ai découvert le milieu du test fin 2019...
+                            Puis j'ai découvert le milieu du test fin 2019 et obtenu ma certification ISTQB niveau fonda
+                            tion le 24 février 2020 avec un score de 85%.
                             <br/>
                             <br/>
                             <h5 class="font-weight-bold">Ma reconversion :</h5>
