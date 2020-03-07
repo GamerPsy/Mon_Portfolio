@@ -6,7 +6,7 @@
         <div class="row h-100">
             <div class="col-12 h-100">
                 <div class="card h-100">
-                    <h2 class="mx-auto">Formulaire de contact</h2>
+                    <h2 class="mx-auto pt-3">Formulaire de contact</h2>
                     <form method="post" action="contact.php">
                         <div class="card-body">
                             <div class="row mx-auto">
