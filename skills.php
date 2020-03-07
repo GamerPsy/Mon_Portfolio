@@ -181,6 +181,18 @@
                     </div>
                 </div>
             </div>
+            <!-- =========================== Méthode MERISE ======================================================== -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="my-3"><img src="images/methodologie/merise.png" alt="Merise"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">MERISE</h6>
+                        <p class="card-text text-success">Niv. confirmé</p>
+                    </div>
+                </div>
+            </div>
             <!-- ============================ Git ================================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
