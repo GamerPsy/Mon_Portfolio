@@ -59,13 +59,91 @@
                     </div>
                 </div>
             </div>
+            <!-- ============================ Ranorex ============================================================= -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                src="images/testing/ranorex.png" alt="Ranorex"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Ranorex Studio</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
+                    </div>
+                </div>
+            </div>
+            <!-- ============================ UFT ================================================================== -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                src="images/testing/uft.png" alt="UFT"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">UFT</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
+                    </div>
+                </div>
+            </div>
+            <!-- ============================ Soap UI ============================================================== -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                src="images/testing/soap-ui.png" alt="Soap UI"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Soap UI</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
+                    </div>
+                </div>
+            </div>
+            <!-- ============================ Jira ================================================================= -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                src="images/testing/jira.png" alt="Jira"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Jira</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
+                    </div>
+                </div>
+            </div>
+            <!-- ============================ Zephir =============================================================== -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                src="images/testing/zephir.png" alt="Zephir"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">Zephir</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
+                    </div>
+                </div>
+            </div>
+            <!-- ============================ Microfocus ALM ======================================================= -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                src="images/testing/microfocus-alm.png" alt="Microfocus ALM"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">MicroFocus ALM</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
+                    </div>
+                </div>
+            </div>
         </div>
-        <!-- ======================= METHODOLOGIE ====================================================== -->
+        <!-- ======================= METHODOLOGIE ================================================================== -->
         <div class="row bg-warning">
             <div class="col-12">
                 <h3 class="border-bottom text-center pb2">Methodologie</h3>
             </div>
-            <!--============================= POO ===================================== -->
+            <!--============================= POO ================================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -78,7 +156,7 @@
                     </div>
                 </div>
             </div>
-            <!-- =========================== TDD ============================================ -->
+            <!-- =========================== TDD =================================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -91,7 +169,7 @@
                     </div>
                 </div>
             </div>
-            <!-- =========================== SCRUM/Agile ============================================== -->
+            <!-- =========================== SCRUM/Agile =========================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -103,7 +181,7 @@
                     </div>
                 </div>
             </div>
-            <!-- ============================ Git =============================== -->
+            <!-- ============================ Git ================================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -116,7 +194,7 @@
                     </div>
                 </div>
             </div>
-            <!-- =========================== GITHUB ======================================== -->
+            <!-- =========================== GITHUB ================================================================ -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -130,12 +208,12 @@
                 </div>
             </div>
         </div>
-        <!-- ==================== SECTION BACK ======================================================= -->
+        <!-- ==================== SECTION BACK ===================================================================== -->
         <div class="row bg-info">
             <div class="col-12">
                 <h3 class="border-bottom text-center pb2">Back-end</h3>
             </div>
-            <!-- ============================ PHP ================================================= -->
+            <!-- ============================ PHP ================================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -148,7 +226,7 @@
                     </div>
                 </div>
             </div>
-            <!-- ============================ SYMFONY ========================================== -->
+            <!-- ============================ SYMFONY ============================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -161,7 +239,7 @@
                     </div>
                 </div>
             </div>
-            <!-- ============================ SQL =============================================== -->
+            <!-- ============================ SQL ================================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -174,7 +252,7 @@
                     </div>
                 </div>
             </div>
-            <!-- ============================ Python =================================================== -->
+            <!-- ============================ Python =============================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -187,7 +265,7 @@
                     </div>
                 </div>
             </div>
-            <!-- ============================ PERL ====================================================== -->
+            <!-- ============================ PERL ================================================================= -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -200,7 +278,7 @@
                     </div>
                 </div>
             </div>
-            <!-- ============================ JQuery ================================================ -->
+            <!-- ============================ JQuery =============================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -214,12 +292,12 @@
                 </div>
             </div>
         </div>
-        <!-- ==================== SECTION ALGORITHMIE ============================================ -->
+        <!-- ==================== SECTION ALGORITHMIE ============================================================== -->
         <div class="row bg-info">
             <div class="col-12">
                 <h3 class="border-bottom text-center pb2">Algorithmie</h3>
             </div>
-            <!-- =========================== FRANCE IOI ========================================== -->
+            <!-- =========================== FRANCE IOI ============================================================ -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -234,7 +312,7 @@
                     </div>
                 </div>
             </div>
-            <!-- =========================== CODEWARS ============================================== -->
+            <!-- =========================== CODEWARS ============================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -251,12 +329,12 @@
             </div>
         </div>
 
-        <!-- ===================== SECTION FRONT ==================================================== -->
+        <!-- ===================== SECTION FRONT =================================================================== -->
         <div class="row bg-danger">
             <div class="col-12">
                 <h3 class="border-bottom text-center pb2">Front-end</h3>
             </div>
-            <!-- =========================== HTML ====================================================== -->
+            <!-- =========================== HTML ================================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -269,7 +347,7 @@
                     </div>
                 </div>
             </div>
-            <!-- =========================== CSS ========================================== -->
+            <!-- =========================== CSS =================================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -282,7 +360,7 @@
                     </div>
                 </div>
             </div>
-            <!-- =========================== BOOTSTRAP ============================================= -->
+            <!-- =========================== BOOTSTRAP ============================================================= -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -295,7 +373,7 @@
                     </div>
                 </div>
             </div>
-            <!-- =========================== TWIG ================================================ -->
+            <!-- =========================== TWIG ================================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -308,7 +386,7 @@
                     </div>
                 </div>
             </div>
-            <!-- ============================ JAVASCRIPT ==================================== -->
+            <!-- ============================ JAVASCRIPT =========================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -322,13 +400,13 @@
                 </div>
             </div>
         </div>
-        <!--======================== SECTION AUTRE =================================================== -->
+        <!--======================== SECTION AUTRE ================================================================= -->
         <div class="row bg-warning">
             <div class="col-12">
                 <h3 class="border-bottom text-center pb2">Autre</h3>
             </div>
 
-            <!-- ============================ Doctrine ================================================== -->
+            <!-- ============================ Doctrine ============================================================= -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -341,7 +419,7 @@
                     </div>
                 </div>
             </div>
-            <!-- ============================ Koha  =================================================== -->
+            <!-- ============================ Koha  ================================================================ -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -354,7 +432,7 @@
                     </div>
                 </div>
             </div>
-            <!-- ============================ Lua =================================================== -->
+            <!-- ============================ Lua ================================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
@@ -367,7 +445,7 @@
                     </div>
                 </div>
             </div>
-            <!-- ============================ Love2D ================================================== -->
+            <!-- ============================ Love2D =============================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
                     <div class="card-body bg-secondary">
