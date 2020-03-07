@@ -9,16 +9,52 @@
                 </div>
             </div>
         </div>
-        <!-- ========================= 2019 =================================================================== -->
+        <!-- ========================= 2019 - 2020 ================================================================= -->
+        <div class="row bg-info mb-2">
+            <div class="col-2 font-weight-bold">
+                <h5 class="font-weight-bold">2019 - 2020</h5>
+                <a href="http://nm-webdesign.fr/" target="_blank">
+                    <img src="images/experiences/nm-webdesign.png" alt="NM WebDesign" width="100" height="100"
+                         class="d-none d-md-block mx-auto">
+                </a>
+            </div>
+            <div class="col-10">
+                <h5 class="font-weight-bold">Consultant IT</h5>
+                <p>SEO.</p>
+                <ul>
+                    <li>Audit SEO</li>
+                    <li>Rédaction de rapports SEO</li>
+                </ul>
+                <p>Développeur</p>
+                <ul>
+                    <li>Débogage</li>
+                    <li>Relecture de code</li>
+                    <li>Participation à la conception de l’architecture de la solution</li>
+                    <li>Participation à l’élaboration du schéma de la base de données</li>
+                    <li>Analyse du code pour rédaction d’un guide de développement soit à visée de documentation soit
+                        pour aide à refonte du code
+                    </li>
+                </ul>
+                <p>Chef de projet</p>
+                <ul>
+                    <li>Accompagnement du client pour le renseignement du cahier des charges</li>
+                    <li> Analyse du cahier des charges</li>
+                    <li>Aide à la spécification du besoin par le client</li>
+                    <li>Rédaction de rapports d’avancement projet</li>
+                </ul>
+            </div>
+        </div>
+        <!-- ========================= 2019 ======================================================================== -->
         <div class="row bg-info mb-2">
             <div class="col-2 font-weight-bold">
                 <h5 class="font-weight-bold">2019</h5>
                 <a href="https://prebs.info/notre-fondation/" target="_blank">
-                    <img src="images/experiences/prebs.png" alt="PREBS" width="100" height="100" class="d-none d-md-block mx-auto">
+                    <img src="images/experiences/prebs.png" alt="PREBS" width="100" height="100"
+                         class="d-none d-md-block mx-auto">
                 </a>
             </div>
             <div class="col-10">
-                <h5 class="font-weight-bold">Développeur logiciel (stage de 4 mois)</h5>
+                <h5 class="font-weight-bold">Développeur logiciel (stage de 595 heures)</h5>
                 <p>Le PREBS (Portail de Références pour l’Enfant à Besoins Spécifiques » est une fondation belge
                     d’utilité publique.</p>
                 <p>Durant mon stage j’ai travaillé sur le projet de la mise en production d’un SIGB pour gérer les
@@ -33,7 +69,8 @@
                 2016 - 2018
                 <a href="https://libres-savoirs.regioncentre.fr/uPortal/espace/informations/article/3007"
                    target="_blank">
-                    <img src="images/experiences/VisasLibresSavoirs.png" alt="Visas Libres Savoirs" width="100" height="100"
+                    <img src="images/experiences/VisasLibresSavoirs.png" alt="Visas Libres Savoirs" width="100"
+                         height="100"
                          class="d-none d-md-block mx-auto">
                 </a>
             </div>
