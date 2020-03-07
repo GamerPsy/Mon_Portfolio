@@ -30,12 +30,12 @@
                                     Gamecodeur, il s'agit d'une école en ligne qui forme ceux qui le souhaite à la
                                     programmation de jeu vidéo.<br/>
                                     Ce qui m'a séduit chez Gamecodeur c'est le discours de fond de David (le fondateur),
-                                    un programmeur doit comprendre et s'adapter quel que soit le langage et le
-                                    framework.
-                                    Ainsi, et j'y adhère à 200%, si on fait le choix d'utiliser un framework ça ne doit
+                                    discours qui colle parfaitement à ma philosophie en tant que développeur un
+                                    programmeur doit comprendre et s'adapter quel que soit le langage et le framework.
+                                    Ainsi (et j'y adhère à 200%) si on fait le choix d'utiliser un framework ça ne doit
                                     pas être pour pâlier à des lacunes techniques mais pour palier à un manque de temps.
                                     <br/>
-                                    Je suis membre premium depuis septembre 2019.
+                                    Je suis membre premium depuis fin 2019.
                                 </p>
                             </div>
                         </div>
@@ -54,10 +54,8 @@
                             <div class="card-body">
                                 <h5 class="card-title">Mon apprentissage chez Gamecodeur</h5>
                                 <p class="card-text">
-                                    Pour le moment je n'ai pas réussi à me mobiliser pour continuer mais c'est prévu, ma
-                                    reprise du parcours Gamecodeur, pour janvier 2020 au plus tard.<br/>
-                                    J'en suis à l'atelier sur les bases, il me reste la création d'un casse-brique et
-                                    faire voler un vaisseau spatial avant la suite.
+                                    Mon objectif pour fin 2020 est d'avoir fini l'apprentissage des bases de la
+                                    programmation de jeux vidéos.
                                 </p>
                             </div>
                         </div>
@@ -80,18 +78,18 @@
                                     d'investissement (World of Warcraft principalement de Vanilla jusqu'à Cataclysm).
                                     <br/>
                                     Aujourd'hui je joue essentiellement à Hero Wars sur mobile et à Heartstone de temps
-                                    en temps sur ma session Windows. Mais l'annonce de Diablo IV a semble-t-il réveillé
-                                    quelque chose en moi !
+                                    en temps sur ma session Windows. L'annonce de Diablo IV risque d'avoir un impact sur
+                                    moi !
                                 </p>
                             </div>
                         </div>
                     </div>
                     <!-- =============== SECTION DES PROCHAINS APPRENTISSAGES SUR GAMECODEUR =============== -->
-                        <div class="col-12">
-                            <div class="btn-secondary btn-lg btn-block mb-3">
-                                <h3 class="border-bottom text-center pb2">Mes prochains apprentissages</h3>
-                            </div>
+                    <div class="col-12">
+                        <div class="btn-secondary btn-lg btn-block mb-3">
+                            <h3 class="border-bottom text-center pb2">Mes prochains apprentissages</h3>
                         </div>
+                    </div>
                     <!-- ============================= Casse briques ============================================ -->
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card fond-gamecodeur h-100">
@@ -100,7 +98,7 @@
                             </div>
                             <div class="card-body">
                                 <p class="card-text">
-                                    Je vais suivre un atelier où je vais coder un casse-brique.
+                                    Il s'agit d'un atelier où je vais devoir coder un casse-brique.
                                 </p>
                             </div>
                             <div class="card-footer">
@@ -119,7 +117,8 @@
                             </div>
                             <div class="card-body">
                                 <p class="card-text">
-                                    Dans cet atelier il va s'agir de faire voler un vaisseau pour tester la physique.
+                                    Il s'agit ici d'un atelier où il faut faire voler un vaisseau pour tester la
+                                    physique.
                                 </p>
                             </div>
                             <div class="card-footer">
@@ -138,9 +137,9 @@
                             </div>
                             <div class="card-body">
                                 <p class="card-text">
-                                    Projet pour m'initier à la programmation de jeu vidéo, une idée assez simple
-                                    mais qui me permettra de toucher à des concepts de collisions, scores et peut-être
-                                    même une IA pour les ennemis.
+                                    Projet perso pour avoir un fil conducteur pour mon apprentissage. Le concept est
+                                    assez basique mais qui me permettra de toucher à des concepts de collisions, scores
+                                    et peut-être même une IA pour les ennemis.
                                 </p>
                             </div>
                             <div class="card-footer">
@@ -181,7 +180,7 @@
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card card-serie h-100">
                             <div class="card-header">
-                                <h3 class="text-center text-sport">Ma favorite</h3>
+                                <h3 class="text-center text-sport">Ma favorite n°1</h3>
                             </div>
                             <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/netflix/blackMirror.jpg"
                                  alt="Black Mirror"/>
@@ -195,7 +194,7 @@
                     <div class="col-12 col-sm-4 pb-2">
                         <div class="card card-serie h-100">
                             <div class="card-header">
-                                <h3 class="text-center text-sport">Actuellement</h3>
+                                <h3 class="text-center text-sport">Ma favorite n°2</h3>
                             </div>
                             <img class="card-img-top mx-auto img-fluid w-100 h-75"
                                  src="images/netflix/better-than-us.jpg"
@@ -212,11 +211,11 @@
                             <div class="card-header">
                                 <h3 class="text-center text-sport">Prochainement</h3>
                             </div>
-                            <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/netflix/theWitcher.jpg"
-                                 alt="The Witcher"/>
+                            <img class="card-img-top mx-auto img-fluid w-100 h-75" src="images/netflix/casapapel.jpg"
+                                 alt="Casa de Papel"/>
                             <div class="card-footer">
-                                <h5>The Witcher</h5>
-                                <i class="fas fa-clock mr-2"></i> Sortie : le 20 décembre 2019
+                                <h5>La casa de Papel. Saison 4</h5>
+                                <i class="fas fa-clock mr-2"></i> Sortie : le 3 avril 2020
                             </div>
                         </div>
                     </div>
