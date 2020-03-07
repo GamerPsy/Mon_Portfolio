@@ -10,7 +10,7 @@
             </div>
         </div>
         <!-- ========================= 2019 - 2020 ================================================================= -->
-        <div class="row bg-info mb-2">
+        <div class="row bg-info mb-2 pt-3">
             <div class="col-2 font-weight-bold">
                 <h5 class="font-weight-bold">2019 - 2020</h5>
                 <a href="http://nm-webdesign.fr/" target="_blank">
@@ -45,7 +45,7 @@
             </div>
         </div>
         <!-- ========================= 2019 ======================================================================== -->
-        <div class="row bg-info mb-2">
+        <div class="row bg-info mb-2 pt-3">
             <div class="col-2 font-weight-bold">
                 <h5 class="font-weight-bold">2019</h5>
                 <a href="https://prebs.info/notre-fondation/" target="_blank">
@@ -64,7 +64,7 @@
             </div>
         </div>
         <!-- ========================= 2016-2018 ================================================================= -->
-        <div class="row bg-info mb-2">
+        <div class="row bg-info mb-2 pt-3">
             <div class="col-2 font-weight-bold">
                 2016 - 2018
                 <a href="https://libres-savoirs.regioncentre.fr/uPortal/espace/informations/article/3007"
@@ -87,7 +87,7 @@
             </div>
         </div>
         <!-- ============================== 2016 =============================================================== -->
-        <div class="row bg-info mb-2 pb-2">
+        <div class="row bg-info mb-2 pb-2 pt-3">
             <div class="col-2">
                 <h6 class="font-weight-bold">2016</h6>
                 <a href="https://pro.orange.fr/"
@@ -105,7 +105,7 @@
             </div>
         </div>
         <!-- ======================= 2014 ====================================================================== -->
-        <div class="row bg-warning">
+        <div class="row bg-warning pt-3">
             <div class="col-2">
                 2014
             </div>
@@ -114,7 +114,7 @@
             </div>
         </div>
         <!-- ============================ 2013-2014 =========================================================== -->
-        <div class="row bg-warning mb-2">
+        <div class="row bg-warning mb-2 pb-3">
             <div class="col-2">
                 2013 - 2014
             </div>
@@ -123,7 +123,7 @@
             </div>
         </div>
         <!-- ========================= 2013 ==================================================================== -->
-        <div class="row bg-info mb-2">
+        <div class="row bg-info mb-2 pt-3">
             <div class="col-2">
                 <h6 class="font-weight-bold">2013</h6>
                 <a href="http://cyberkartie.e-monsite.com/" target="_blank">
@@ -150,7 +150,7 @@
             </div>
         </div>
         <!-- ======================= 2010-2013 ================================================================ -->
-        <div class="row bg-warning">
+        <div class="row bg-warning pt-3">
             <div class="col-2">
                 2010 - 2013
             </div>
@@ -159,7 +159,7 @@
             </div>
         </div>
         <!-- ======================= 2004-2010 ================================================================== -->
-        <div class="row bg-warning">
+        <div class="row bg-warning pb-3">
             <div class="col-2">
                 2004 - 2010
             </div>

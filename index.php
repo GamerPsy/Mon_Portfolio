@@ -7,7 +7,7 @@
             <!-- ==================== Infos Rémy ============================================================= -->
             <div class="col-12 col-sm-4 offset-sm-2">
                 <div class="card w-100 h-100">
-                    <h4 class="font-weight-bold mx-auto">Fiche de présentation</h4>
+                    <h4 class="font-weight-bold mx-auto pt-3">Fiche de présentation</h4>
                     <div class="card-body">
                         <ul>
                             <li><span class="font-weight-bold">Nom :</span> DUCRY Rémy</li>
