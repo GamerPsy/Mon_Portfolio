@@ -19,7 +19,7 @@
                         </ul>
                     </div>
                     <div class="card-footer w-100">
-                        <a href="/documents/Remy_DUCRY_Testeur_logiciel.pdf" target="_blank">
+                        <a href="/documents/Remy-DUCRY_Testeur-certifié.pdf" target="_blank">
                             <div class="btn color-compostelle mx-auto d-block w-100 pt-3">
                                 <span class="font-weight-bold text-warning">Télécharger le CV !</span>
                             </div>
