@@ -14,13 +14,14 @@
             <div class="col-12 col-sm-4 pb-4">
                 <div class="card bg-success h-100">
                     <div class="card-header">
-                        <h3 class="text-center">Java</h3>
+                        <h3 class="text-center">Java (En cours)</h3>
                     </div>
                     <div class="card-body">
                         <p class="card-text">
-                            Je vais me lancer dans l'apprentissage de ce langage via la plateforme d'enseignement de la
-                            Wild Code School (Odyssey) et compléter si besoin. Je créerai une repository avec plusieurs
-                            branches sur Github pour la correction des quêtes.
+                            Je suis en train de suivre un cours pour les bases en Java via UDEMY, ensuite je suivrais en 
+                            parallèle un cours Openclassrooms et je ferais les quêtes du parcours Java via Odyssey (plateforme
+                             d'enseignement de la Wild Code School). Je créerai une repository avec plusieurs branches sur 
+                             Github pour la correction des quêtes.
                         </p>
                         <p class="card-skills">
                             <span class="badge badge-dark">Apprentissage</span>
@@ -28,9 +29,32 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-dark"
-                           href=""
-                           title="Ma progression en Java" target="_blank">
+                        <a role="button" class="btn btn-dark" href="" title="Ma progression en Java" target="_blank">
+                            <i class="fab fa-github"></i>
+                        </a>
+                        <span class="mx-2">|</span>
+                        <i class="fas fa-user mr-2"></i> Moi-même !
+                    </div>
+                </div>
+            </div>
+            <!-- ============================= Apprentissage : C++ ======================================== -->
+            <div class="col-12 col-sm-4 pb-4">
+                <div class="card bg-success h-100">
+                    <div class="card-header">
+                        <h3 class="text-center">C++</h3>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text">
+                            Projet que je repoussais depuis plus d'un an, 2020 est l'année où je m'initie à ce langage. 
+                            J'ai choisi un cours sur UDEMY pour cet apprentissage.
+                        </p>
+                        <p class="card-skills">
+                            <span class="badge badge-dark">Apprentissage</span>
+                            <span class="badge badge-dark">Développeur</span>
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <a role="button" class="btn btn-dark" href="" title="Docker" target="_blank">
                             <i class="fab fa-github"></i>
                         </a>
                         <span class="mx-2">|</span>
@@ -46,9 +70,8 @@
                     </div>
                     <div class="card-body">
                         <p class="card-text">
-                            Mon stage avec le PREBS m'a fait prendre conscience de l'aspect devOps qu'il y a dans tout
-                            process pour qu'un site ou une application soit disponible sur internet. Du coup c'est un
-                            apprentissage qui me parait logique pour moi.
+                            Le devOps devenant il me semble une norme, je vais cette année apprendre/comprendre ce qu'est 
+                            Docker et comment utiliser/créer des containers.
                         </p>
                         <p class="card-skills">
                             <span class="badge badge-dark">Apprentissage</span>
@@ -56,9 +79,7 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-dark"
-                           href=""
-                           title="Docker" target="_blank">
+                        <a role="button" class="btn btn-dark" href="" title="Docker" target="_blank">
                             <i class="fab fa-github"></i>
                         </a>
                         <span class="mx-2">|</span>
@@ -80,7 +101,7 @@
                     <div class="card-header">
                         <h3 class="text-center">Projet perso : Dino Jungle</h3>
                     </div>
-                    <img class="card-img-top" src="images/projets/Dino_Jungle.png" alt="Dino Jungle"/>
+                    <img class="card-img-top" src="images/projets/Dino_Jungle.png" alt="Dino Jungle" />
                     <div class="card-body">
                         <h5 class="card-title">Dino Jungle</h5>
                         <p class="card-text">
@@ -95,9 +116,7 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-dark"
-                           href="http://remy-ducry.fr/DinoJungle_JSversion/"
-                           title="Dino Jungle" target="_blank">
+                        <a role="button" class="btn btn-dark" href="http://remy-ducry.fr/DinoJungle_JSversion/" title="Dino Jungle" target="_blank">
                             <i class="fas fa-gamepad"></i>
                         </a>
                         <span class="mx-2">|</span>
@@ -111,7 +130,7 @@
                     <div class="card-header">
                         <h3 class="text-center">Projet perso : mon portfolio</h3>
                     </div>
-                    <img class="card-img-top" src="images/projets/portfolio.gif" alt="Mon Portfolio"/>
+                    <img class="card-img-top" src="images/projets/portfolio.gif" alt="Mon Portfolio" />
                     <div class="card-body">
                         <h5 class="card-title">Mon portfolio</h5>
                         <p class="card-text">
@@ -126,9 +145,7 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-dark"
-                           href="https://github.com/GamerPsy/Mon_Portfolio/tree/master"
-                           title="Mon portfolio" target="_blank">
+                        <a role="button" class="btn btn-dark" href="https://github.com/GamerPsy/Mon_Portfolio/tree/master" title="Mon portfolio" target="_blank">
                             <i class="fab fa-github"></i>
                         </a>
                         <span class="mx-2">|</span>
@@ -142,7 +159,7 @@
                     <div class="card-header">
                         <h3 class="text-center">Projet 3 à la Wild Code School</h3>
                     </div>
-                    <img class="card-img-top" src="images/projets/projet3.png" alt="Simulateur_Pinel"/>
+                    <img class="card-img-top" src="images/projets/projet3.png" alt="Simulateur_Pinel" />
                     <div class="card-body">
                         <h5 class="card-title">Simulateur Pinel</h5>
                         <p class="card-text">
@@ -157,9 +174,7 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-dark"
-                           href="https://github.com/GamerPsy/WCS_Projet3_SimulateurLoiPinel"
-                           title="Simulateur_Pinel" target="_blank">
+                        <a role="button" class="btn btn-dark" href="https://github.com/GamerPsy/WCS_Projet3_SimulateurLoiPinel" title="Simulateur_Pinel" target="_blank">
                             <i class="fab fa-github"></i>
                         </a>
                         <span class="mx-2">|</span>
@@ -219,7 +234,7 @@
                     <div class="card-header">
                         <h3 class="text-center">Projet 2 à la Wild Code School</h3>
                     </div>
-                    <img class="card-img-top" src="images/projets/projet2.gif" alt="WCS-ASLO45"/>
+                    <img class="card-img-top" src="images/projets/projet2.gif" alt="WCS-ASLO45" />
                     <div class="card-body">
                         <h5 class="card-title">Association Sabres laser</h5>
                         <p class="card-text">
@@ -235,9 +250,7 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-dark"
-                           href="https://github.com/GamerPsy/WCS_Projet2_ASLO45"
-                           title="WCS-ASLO45" target="_blank">
+                        <a role="button" class="btn btn-dark" href="https://github.com/GamerPsy/WCS_Projet2_ASLO45" title="WCS-ASLO45" target="_blank">
                             <i class="fab fa-github"></i>
                         </a>
                         <span class="mx-2">|</span>
@@ -289,7 +302,7 @@
                     <div class="card-header">
                         <h3 class="text-center">Projet 1 à la Wild Code School</h3>
                     </div>
-                    <img class="card-img-top" src="images/projets/projet1.gif" alt="WCS-Projet1_JourneeSansChaussures"/>
+                    <img class="card-img-top" src="images/projets/projet1.gif" alt="WCS-Projet1_JourneeSansChaussures" />
                     <div class="card-body">
                         <h5 class="card-title">Journée mondiale du travail sans chaussures</h5>
                         <p class="card-text">
@@ -302,9 +315,7 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a role="button" class="btn btn-dark"
-                           href="https://github.com/GamerPsy/WCS_Projet1_JourneeSansChaussures"
-                           title="WCS-Projet1_JourneeSansChaussures" target="_blank">
+                        <a role="button" class="btn btn-dark" href="https://github.com/GamerPsy/WCS_Projet1_JourneeSansChaussures" title="WCS-Projet1_JourneeSansChaussures" target="_blank">
                             <i class="fab fa-github"></i>
                         </a>
                         <span class="mx-2">|</span>
