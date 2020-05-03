@@ -9,7 +9,30 @@
                 </div>
             </div>
         </div>
-
+        <div class="row bg-info mt-2 pt-3">
+        <!-- ======================= 2020 ====================================================================== -->
+        <div class="col-12 col-sm-2">
+                2020
+            </div>
+            <div class="col-12 col-sm-10">
+                <!-- ==================== OPENCLASSROOMS ======================================================= -->
+                <div class="row bg-info">
+                    <!-- =========================== Initiez-vous à l'algèbre relationnelle avec le langage SQL  -->
+                    <div class="col pb-2">
+                        <div class="row mr-2">
+                            <div class="col-1">
+                                <img class="openclassrooms d-none d-lg-block mx-auto" src="images/openclassrooms.png"
+                                     alt="Openclassrooms"/>
+                            </div>
+                            <div class="col-11 bg-secondary pt-1">
+                                <h5 class="font-weight-bold">Initiez-vous à l'algèbre relationnelle avec le langage SQL</h5>
+                                <i class="fas fa-clock mr-2"></i><span>Délivré en avril 2020</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="row bg-info mt-2 pt-3">
             <!--  ============= 2019-2020 ====================================================================== -->
             <div class="col-2">
