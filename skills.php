@@ -251,6 +251,19 @@
                     </div>
                 </div>
             </div>
+            <!-- ============================ JAVA ================================================================== -->
+            <div class="col-6 col-sm-2 pb-2">
+                <div class="card text-center bg-dark h-100">
+                    <div class="card-body bg-secondary">
+                        <p class="effect rounded mx-auto d-block img-fluid"><img
+                                    src="images/langages/logo_Java.png" alt="Java"/></p>
+                    </div>
+                    <div class="card-footer">
+                        <h6 class="font-weight-bold text-white">JAVA</h6>
+                        <p class="card-text text-orange">Niv. débutant</p>
+                    </div>
+                </div>
+            </div>
             <!-- ============================ SQL ================================================================== -->
             <div class="col-6 col-sm-2 pb-2">
                 <div class="card text-center bg-dark h-100">
